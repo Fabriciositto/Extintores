@@ -1,0 +1,1438 @@
+,,,,,,EXTINTORES DE PLANTA,,,,,,,,,,,,,,,,
+,Orden,LOTE,RESPONSABLE,EDIFICO,UBICACIÓN,TIPO,CLASE,CAP.,VTO DE CARGA,VTO PH,BALIZA,CARTEL EN ALTURA,DEMARCACIÓN DE PISO,NRO INTERNO,NRO FABRICACIÓN,AÑO,MARCA,ESTADO,RESERVA,ORIGEN RESERVA,VENCIMIENTO DE LA RESERVA,EMPRESA DE MANTENIMIENTO
+,1,LOTE 101,,Chapisteria,Chapa - Sub Estación Chica,CO2,BC,10 Kg,11/2020,11/2023,,,,201,855891,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,2,LOTE 101,,Chapisteria,Chapa - Sub Estación Chica,CO2,BC,10 Kg,11/2020,11/2023,,,,202,855849,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,3,LOTE 101,,Chapisteria,Chapa - Sub Estación Chica,CO2,BC,10 Kg,11/2020,11/2023,,,,203,855855,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,4,LOTE 101,,Chapisteria,Chapa - Sub Estación Grande,CO2,BC,10 Kg,11/2020,11/2023,,,,204,855885,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,5,LOTE 101,,Chapisteria,Chapa - Sub Estación Grande,CO2,BC,10 Kg,11/2020,11/2023,,,,205,853280,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,6,LOTE 101,,Chapisteria,Chapa - Sub Estación Grande,CO2,BC,10 Kg,11/2020,11/2023,,,,206,855897,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,7,LOTE 101,,Chapisteria,Chapa - Col. A/04,CO2,BC,3.5 Kg,11/2020,11/2023,,,,207,855700,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,8,LOTE 101,,Chapisteria,Chapa - Col. A/12,CO2,BC,3.5 Kg,11/2020,11/2023,,,,208,855682,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,9,LOTE 101,,Chapisteria,Chapa - Col. A/18,CO2,BC,3.5 Kg,11/2020,11/2023,,,,209,855555,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,10,LOTE 101,,Chapisteria,Chapa - Col. A/26,CO2,BC,3.5 Kg,11/2020,11/2024,,,,210,855678,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,11,LOTE 101,,Chapisteria,Chapa - Col. B/06,CO2,BC,3.5 Kg,11/2020,11/2023,,,,211,855551,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,12,LOTE 101,,Chapisteria,Chapa - Col. B/08,AFFF,AB,10 Lts,11/2020,11/2020,,,,212,468257,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,13,LOTE 101,,Chapisteria,Chapa - Col. B/14,CO2,BC,3.5 Kg,11/2020,11/2023,,,,213,855688,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,14,LOTE 101,,Chapisteria,Chapa - Col. B/20,CO2,BC,3.5 Kg,11/2020,11/2023,,,,214,855589,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,15,LOTE 101,,Chapisteria,Chapa - Almacén,CO2,BC,10 Kg,12/2020,12/2023,,,,215,858292,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,16,LOTE 101,,Chapisteria,Chapa - Col. B/02,AFFF,AB,10 Lts,11/2020,11/2020,,,,216,468842,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,17,LOTE 101,,Chapisteria,Chapa - Col. C/00,POLVO,ABC,10 Kg,9/2020,9/2023,,,,217,624796,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,18,LOTE 101,,Chapisteria,Chapa - Col. C/02,CO2,BC,3.5 Kg,11/2020,11/2023,,,,218,855662,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,19,LOTE 101,,Chapisteria,Chapa - Col. C/04,AFFF,AB,10 Lts,11/2020,11/2023,,,,219,468631,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,20,LOTE 101,,Chapisteria,Chapa - Col. C/08,CO2,BC,3.5 Kg,11/2020,11/2023,,,,220,855572,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,21,LOTE 101,,Chapisteria,Chapa - Col. C/16,CO2,BC,3.5 Kg,11/2020,11/2023,,,,221,855665,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,22,LOTE 101,,Chapisteria,Chapa - Col. D/20,CO2,BC,3.5 Kg,11/2020,11/2023,,,,222,855692,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,23,LOTE 101,,Chapisteria,Chapa - Col. D/16,CO2,BC,3.5 Kg,11/2020,11/2023,,,,223,855660,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,24,LOTE 101,,Chapisteria,Chapa - Col. D/08,CO2,BC,3.5 Kg,11/2020,11/2023,,,,224,855638,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,25,LOTE 101,,Chapisteria,Chapa - Col. D/00,POLVO,ABC,10 Kg,9/2020,9/2023,,,,226,625073,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,26,LOTE 101,,Chapisteria,Chapa - Col. E/04,CO2,BC,5 Kg,11/2020,11/2023,,,,227,857427,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,27,LOTE 101,,Chapisteria,Chapa - Col. E/26,CO2,BC,3.5 Kg,11/2020,11/2023,,,,228,855646,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,28,LOTE 101,,Chapisteria,Chapa - Col. F/22,CO2,BC,3.5 Kg,11/2020,11/2023,,,,229,855593,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,29,LOTE 101,,Chapisteria,Chapa - Col. F/12,CO2,BC,3.5 Kg,11/2020,11/2023,,,,230,855578,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,30,LOTE 101,,Chapisteria,Chapa - Col. F/10,AFFF,AB,10 Lts,11/2020,11/2020,,,,231,468971,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,31,LOTE 101,,Chapisteria,Chapa - Col. F/08,CO2,BC,3.5 Kg,11/2020,11/2023,,,,232,855690,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,32,LOTE 101,,Chapisteria,Chapa - Col. F/04,POLVO,ABC,10 Kg,9/2020,9/2023,,,,233,625186,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,33,LOTE 101,,Chapisteria,Chapa - Col. G/04,CO2,BC,3.5 Kg,11/2020,11/2023,,,,234,855562,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,34,LOTE 101,,Chapisteria,Chapa - Col. G/08,CO2,BC,3.5 Kg,11/2020,11/2023,,,,235,855563,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,35,LOTE 101,,Chapisteria,Chapa - Col. G/10,CO2,BC,3.5 Kg,11/2020,11/2023,,,,236,855659,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,36,LOTE 101,,Chapisteria,Chapa - Col. G/20,CO2,BC,3.5 Kg,11/2020,11/2023,,,,237,855667,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,37,LOTE 101,,Chapisteria,Chapa - Col. G/26,CO2,BC,3.5 Kg,11/2020,11/2023,,,,238,855556,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,38,LOTE 101,,Chapisteria,Chapa - Frente a Sub Estación Grande,CO2,BC,3.5 Kg,11/2020,11/2023,,,,239,855666,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,39,LOTE 101,,Chapisteria,Chapa - Oficina,CO2,BC,3.5 Kg,11/2020,11/2023,,,,240,855699,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,40,LOTE 101,,Chapisteria,Chapa - Oficina,CO2,BC,3.5 Kg,11/2020,11/2023,,,,241,855594,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,41,LOTE 101,,Chapisteria,Chapa - Enfermería,CO2,BC,3.5 Kg,11/2020,11/2023,,,,242,855599,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,42,LOTE 101,,Chapisteria,Chapa - Col. C/28,CO2,BC,3.5 Kg,11/2020,11/2023,,,,243,855588,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,43,LOTE 101,,Chapisteria,Chapa - Alero Sur,POLVO,ABC,10 Kg,5/2021,5/2021,,,,244,1589906,2016,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,44,LOTE 101,,Chapisteria,Chapa - Alero Sur,POLVO,ABC,10 Kg,5/2021,5/2021,,,,245,1589750,2016,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,45,LOTE 101,,Chapisteria,Chapa - Alero Sur,POLVO,ABC,10 Kg,5/2021,5/2021,,,,246,1589909,2016,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,46,LOTE 101,,Chapisteria,Chapa - Grupo Electrogeno,AFFF,AB,10 Lts,11/2020,11/2023,,,,247,468472,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,47,LOTE 101,,Chapisteria,Chapa - Metrologia Grande,CO2,BC,10 Kg,11/2020,11/2023,,,,248,856976,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,48,LOTE 101,,Chapisteria,Chapa - Metrologia Grande,CO2,BC,10 Kg,11/2020,11/2023,,,,249,857600,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,49,LOTE 101,,Chapisteria,Chapa - Metrologia Grande,AFFF,AB,10 Lts,11/2020,11/2020,,,,250,468737,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,50,LOTE 101,,Chapisteria,Chapa - Metrologia Grande,CO2,BC,3.5 Kg,11/2020,11/2023,,,,251,852984,2018,Norbco,En planta,,#N/A,#N/A,Cassaro
+,51,LOTE 101,,Chapisteria,Chapa - Metrologia Grande,CO2,BC,3.5 Kg,11/2020,11/2023,,,,252,853015,2018,Norbco,En planta,,#N/A,#N/A,Cassaro
+,52,LOTE 101,,Chapisteria,Chapa - Col. C/22,CO2,BC,10 Kg,11/2020,11/2023,,,,253,856966,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,53,LOTE 101,,Chapisteria,Chapa - Col. D/04,AFFF,AB,10 Lts,11/2020,11/2020,,,,254,468101,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,54,LOTE 101,,Chapisteria,Chapa - Metrologia Chica,CO2,BC,3.5 Kg,12/2020,12/2024,,,,255,2109,2009,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,55,LOTE 101,,Chapisteria,Chapa - Metrologia Chica,CO2,BC,3.5 Kg,12/2020,12/2024,,,,256,2328,2009,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,56,LOTE 101,,Chapisteria,Chapa - Metrologia Grande,POLVO,ABC,5 Kg,10/2020,10/2023,,,,257,777918,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,57,LOTE 101,,Chapisteria,Chapa - Metrologia Grande,POLVO,ABC,5 Kg,10/2020,10/2023,,,,258,760425,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,58,LOTE 101,,Chapisteria,Chapa - Partes Móviles,CO2,BC,3.5 Kg,11/2020,11/2023,,,,271,857007,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,59,LOTE 101,,Chapisteria,Chapa - Partes Móviles,CO2,BC,3.5 Kg,11/2020,11/2023,,,,272,857008,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,60,LOTE 101,,Chapisteria,Chapa - Partes Móviles,CO2,BC,3.5 Kg,11/2020,11/2023,,,,273,857011,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,61,LOTE 101,,Chapisteria,Chapa - Partes Móviles,CO2,BC,3.5 Kg,11/2020,11/2023,,,,274,857026,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,62,LOTE 101,,Chapisteria,Chapa - Partes Móviles,CO2,BC,3.5 Kg,11/2020,11/2023,,,,275,857035,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,63,LOTE 101,,Chapisteria,Chapa - Partes Móviles,CO2,BC,3.5 Kg,11/2020,11/2024,,,,276,857039,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,64,LOTE 101,,Chapisteria,Chapa - Partes Móviles,CO2,BC,3.5 Kg,11/2020,11/2023,,,,277,857040,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,65,LOTE 101,,Chapisteria,Chapa - Partes Móviles,CO2,BC,3.5 Kg,11/2020,11/2023,,,,278,857042,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,66,LOTE 101,,Chapisteria,Chapa- Col C/D-16 Piso Técnico,CO2,BC,3.5 Kg,12/2020,12/2023,,,,279,857006,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,67,LOTE 101,,Chapisteria,Chapa- Col E/16 Piso Técnico,CO2,BC,3.5 Kg,12/2020,12/2023,,,,280,857124,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,68,LOTE 101,,Pintura,Sub estacion de Pintura,CO2,BC,10 Kg,12/2020,12/2023,,,,281,860183,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,69,LOTE 101,,Pintura,Sub estacion de Pintura,CO2,BC,10 Kg,12/2020,12/2023,,,,282,859786,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,70,LOTE 101,,Chapisteria,Sub estacion Chapa PM,CO2,BC,10 Kg,12/2020,12/2023,,,,283,858751,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,71,LOTE 101,,Chapisteria,Sub estacion Chapa PM,CO2,BC,10 Kg,12/2020,12/2023,,,,284,858789,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,72,LOTE 101,,Chapisteria,Sub estacion Chapa PM,CO2,BC,10 Kg,12/2020,12/2023,,,,285,858793,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,73,LOTE 101,,Pintura,Nivel 00 Col. A/19 Montacarga,CO2,BC,5 Kg,7/2021,7/2021,,,,286,1568,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,74,LOTE 101,,Pintura,Nivel 00 - Col. C-D/18,AFFF,AB,10 Lts,9/2020,9/2023,,,,287,468086,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,75,LOTE 101,,Pintura,Nivel 00 - Col. C-D/19,AFFF,AB,10 Lts,9/2020,9/2023,,,,288,468154,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,76,LOTE 101,,Pintura,Depósito de Fosftante,POLVO,ABC,10 Kg,9/2020,9/2023,,,,289,625255,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,77,LOTE 101,,Pintura,Depósito de Químicos - Interno,POLVO,ABC,25 Kg,5/2021,5/2023,,,,290,51973,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,78,LOTE 101,,Pintura,Depósito de Químicos - Interno,POLVO,ABC,10 Kg,9/2020,9/2023,,,,291,625267,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,79,LOTE 101,,Chapisteria,Chapa- Col. C/24 ¨Piso Técnico,CO2,BC,3.5 Kg,11/2020,11/2023,,,,292,853011,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,80,LOTE 101,,Pintura,Laboratorio de Pintura,POLVO,ABC,10 Kg,9/2020,9/2023,,,,296,625319,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,81,LOTE 101,,Pintura,Laboratorio de Pintura,POLVO,ABC,10 Kg,9/2020,9/2023,,,,297,625321,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,82,LOTE 101,,Pintura,Laboratorio de Pintura,CO2,BC,3.5 Kg,,8/2023,,,,298,855625,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,83,LOTE 101,,Pintura,Central de Pintura,AFFF,AB,25 Lts,7/2021,7/2023,,,,299,52155,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,84,LOTE 101,,Pintura,Central de Pintura,POLVO,ABC,25 Kg,7/2021,7/2023,,,,300,51893,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,85,LOTE 101,,Pintura,Nivel 00 - Col. A/02,CO2,BC,10 Kg,3/2021,7/2023,,,,301,857594,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,86,LOTE 101,,Pintura,Nivel 00 - Col. A/05,CO2,BC,3.5 Kg,,8/2023,,,,302,855601,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,87,LOTE 101,,Pintura,Nivel 00 - Col. A/08,CO2,BC,3.5 Kg,,8/2023,,,,303,855602,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,88,LOTE 101,,Pintura,Nivel 00 - Col. A/11,CO2,BC,3.5 Kg,,8/2023,,,,304,855605,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,89,LOTE 101,,Pintura,Nivel 00 - Col. A/14,CO2,BC,3.5 Kg,,8/2023,,,,305,855606,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,90,LOTE 101,,Pintura,Nivel 00 - Col. A/18,CO2,BC,3.5 Kg,,8/2023,,,,306,855607,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,91,LOTE 101,,Pintura,Nivel 00 - Col. A/22,CO2,BC,3.5 Kg,,8/2023,,,,307,855609,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,92,LOTE 101,,Pintura,Nivel 00 - Col. B/21 Pared Este,CO2,BC,3.5 Kg,,8/2023,,,,308,855610,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,93,LOTE 101,,Pintura,Nivel 00 - Col. B/19 Pared Este,CO2,BC,3.5 Kg,,8/2023,,,,309,855611,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,94,LOTE 101,,Pintura,Nivel 00 - Col. B/16 Pared Este,CO2,BC,3.5 Kg,,8/2023,,,,310,855613,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,95,LOTE 101,,Pintura,Nivel 00 - Col. B/12-13 Pared Este,CO2,BC,3.5 Kg,,8/2023,,,,311,855615,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,96,LOTE 101,,Pintura,Nivel 00 - Col. B/10 Pared Este,CO2,BC,3.5 Kg,,8/2023,,,,312,855618,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,97,LOTE 101,,Pintura,Nivel 00 - Col. B/06 Pared Este,CO2,BC,3.5 Kg,,8/2023,,,,313,855623,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,98,LOTE 101,,Pintura,Nivel 00 - Col. B/03 Pared Este,CO2,BC,3.5 Kg,,8/2023,,,,314,855624,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,99,LOTE 101,,Pintura,Nivel 00 - Col. B/03 Pared Oeste,POLVO,ABC,10 Kg,9/2020,9/2023,,,,315,625394,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,100,LOTE 101,,Pintura,Nivel 00 - Col. B/05 Pared Oeste,POLVO,ABC,10 Kg,9/2020,9/2023,,,,316,625586,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,101,LOTE 101,,Pintura,Nivel 00 - Col. B/09 Pared Oeste,POLVO,ABC,10 Kg,9/2020,9/2023,,,,317,625490,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,102,LOTE 101,,Pintura,Nivel 00 - Col. B/15 Pared Oeste,POLVO,ABC,10 Kg,3/2021,3/2023,,,,318,625345,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,103,LOTE 101,,Pintura,Nivel 00 - Col. B/18 Pared Oeste,POLVO,ABC,10 Kg,,9/2023,,,,319,625383,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,104,LOTE 101,,Pintura,Nivel 00 - Col. B/21 Pared Oeste,POLVO,ABC,10 Kg,9/2020,9/2023,,,,320,625498,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,105,LOTE 101,,Pintura,Nivel 00 - Col. C-B/10,POLVO,ABC,10 Kg,9/2020,9/2023,,,,321,625246,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,106,LOTE 101,,Pintura,Nivel 00 - Col. C-B/07,POLVO,ABC,10 Kg,9/2020,9/2023,,,,322,625372,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,107,LOTE 101,,Pintura,Nivel 00 - Col. C-B/04,POLVO,ABC,10 Kg,9/2020,9/2023,,,,323,657658,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,108,LOTE 101,,Pintura,Nivel 00 - Col. B1/02,POLVO,ABC,25 Kg,7/2021,7/2023,,,,324,52165,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,109,LOTE 101,,Pintura,Nivel 00 - Col. C/01,POLVO,ABC,10 Kg,,9/2023,,,,325,625227,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,110,LOTE 101,,Pintura,Nivel 00 - Col. C-D/03,POLVO,ABC,10 Kg,9/2020,9/2023,,,,326,657612,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,111,LOTE 101,,Pintura,Nivel 00 - Col. C-D/06,POLVO,ABC,10 Kg,9/2020,9/2023,,,,327,625294,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,112,LOTE 101,,Pintura,Nivel 00 - Col. C-D/09,POLVO,ABC,10 Kg,9/2020,9/2023,,,,328,625222,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,113,LOTE 101,,Pintura,Nivel 00 - Col. C/13,POLVO,ABC,10 Kg,9/2020,9/2023,,,,329,625233,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,114,LOTE 101,,Pintura,Nivel 00 - Col. C/16,POLVO,ABC,10 Kg,9/2020,9/2023,,,,330,625492,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,115,LOTE 101,,Pintura,Nivel 00 - Col. C/19,POLVO,ABC,10 Kg,9/2020,9/2023,,,,331,625250,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,116,LOTE 101,,Pintura,Nivel 00 - Col. C/21,POLVO,ABC,10 Kg,9/2020,9/2023,,,,332,625567,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,117,LOTE 101,,Pintura,Nivel 00 - Col. C-D/23,POLVO,ABC,10 Kg,9/2020,9/2023,,,,333,625491,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,118,LOTE 101,,Pintura,Nivel 00 - Col. D/21,POLVO,ABC,10 Kg,9/2020,9/2023,,,,334,625457,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,119,LOTE 101,,Pintura,Nivel 00 - Col. D/18,POLVO,ABC,10 Kg,5/2021,5/2023,,,,335,625336,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,120,LOTE 101,,Pintura,Nivel 00 - Col. D/11,POLVO,ABC,10 Kg,9/2020,9/2023,,,,336,625384,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,121,LOTE 101,,Pintura,Nivel 00 - Col. D-E/04,POLVO,ABC,10 Kg,9/2020,9/2023,,,,337,625328,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,122,LOTE 101,,Pintura,Nivel 00 - Box Retoque,POLVO,ABC,10 Kg,9/2020,9/2023,,,,338,625580,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,123,LOTE 101,,Pintura,Nivel 00 - Box Retoque,POLVO,ABC,10 Kg,9/2020,9/2023,,,,339,625405,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,124,LOTE 101,,Pintura,Nivel 00 - Col. E/23,POLVO,ABC,10 Kg,9/2020,9/2023,,,,340,625428,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,125,LOTE 101,,Pintura,Nivel 00 - Col. E/20,POLVO,ABC,10 Kg,9/2020,9/2023,,,,341,625523,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,126,LOTE 101,,Pintura,Nivel 00 - Col. E/17,POLVO,ABC,10 Kg,9/2020,9/2023,,,,342,625274,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,127,LOTE 101,,Pintura,Nivel 00 - Col. E/13,POLVO,ABC,10 Kg,9/2020,9/2023,,,,343,625890,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,128,LOTE 101,,Pintura,Nivel 00 - Col. E/11,POLVO,ABC,10 Kg,9/2020,9/2023,,,,344,625577,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,129,LOTE 101,,Pintura,Nivel 00 - Box Mtto. E/06-07,POLVO,ABC,5 Kg,10/2020,10/2023,,,,346,647646,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,130,LOTE 101,,Pintura,Nivel 00 - Col. E/01,POLVO,ABC,10 Kg,9/2020,9/2023,,,,347,624785,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,131,LOTE 101,,Pintura,Nivel 5400 Col A/4,CO2,BC,10 Kg,12/2020,12/2023,,,,348,858291,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,132,LOTE 101,,Pintura,Nivel 5400 Col. A/11,CO2,BC,5 Kg,,8/2023,,,,349,855705,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,133,LOTE 101,,Pintura,Nivel 5400 Col. A/18,CO2,BC,10 Kg,11/2020,11/2023,,,,350,856967,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,134,LOTE 101,,Pintura,Nivel 9000  Cuba 2-3,CO2,BC,5 Kg,,8/2023,,,,351,855755,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,135,LOTE 101,,Pintura,Nivel 9000 Cuba 5-6,CO2,BC,5 Kg,,8/2023,,,,352,855785,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,136,LOTE 101,,Pintura,Nivel 9000 Cuba de Cataforesis,CO2,BC,10 Kg,11/2020,11/2023,,,,353,856965,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,137,LOTE 101,,Pintura,Nivel 9000 Cuba 6-7,CO2,BC,5 Kg,,8/2023,,,,354,855723,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,138,LOTE 101,,Pintura,Nivel 5400 Col. A/14,CO2,BC,10 Kg,11/2020,11/2023,,,,355,856963,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,139,LOTE 101,,Pintura,Nivel 5400 Col. A/8,CO2,BC,10 Kg,11/2020,11/2023,,,,356,858291,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,140,LOTE 101,,Pintura,Nivel 00 - Col. B/12 Pared Oeste,POLVO,ABC,10 Kg,9/2020,9/2023,,,,357,625488,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,141,LOTE 101,,Pintura,Nivel 14000 Col. C/8-9,CO2,BC,10 Kg,11/2020,11/2023,,,,358,857596,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,142,LOTE 101,,Pintura,Nivel 9 Ingr. Clean Room UTE2,POLVO,ABC,10 Kg,,7/2023,,,,359,624903,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,143,LOTE 101,,Pintura,Nivel 9000 UTE 2,POLVO,ABC,5 Kg,9/2020,9/2023,,,,360,657398,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,144,LOTE 101,,Pintura,Nivel 9000 Col. C-D/15-16,CO2,BC,3.5 Kg,,8/2023,,,,361,857109,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,145,LOTE 101,,Pintura,Nivel 9000 Col. C-D/12,CO2,BC,3.5 Kg,,8/2023,,,,362,855671,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,146,LOTE 101,,Pintura,Nivel 9000 Col. C-D/18,POLVO,ABC,5 Kg,9/2020,9/2023,,,,363,669416,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,147,LOTE 101,,Pintura,Nivel 9000 Col. C-D/21,POLVO,ABC,5 Kg,9/2020,9/2023,,,,364,669216,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,148,LOTE 101,,Pintura,Nivel 14000 Col. C-D/11,CO2,BC,3.5 Kg,,8/2023,,,,367,853240,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,149,LOTE 101,,Pintura,Nivel 14000 Col. C-D/21,CO2,BC,3.5 Kg,,8/2023,,,,368,857055,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,150,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,10 Kg,3/2021,3/2025,,,,369,1917,2010,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,151,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,10 Kg,3/2021,3/2025,,,,370,4240,2010,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,152,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,10 Kg,3/2021,3/2025,,,,371,4495,2010,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,153,LOTE 101,,Pintura,Nivel 00 Col. D-E/07,POLVO,ABC,10 Kg,9/2020,9/2023,,,,372,625380,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,154,LOTE 101,,Pintura,Nivel 14000 Col. C/12-13,CO2,BC,10 Kg,11/2020,11/2023,,,,373,856984,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,155,LOTE 101,,Pintura,Nivel 14000 Col. C/4,CO2,BC,10 Kg,11/2020,11/2023,,,,374,859790,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,156,LOTE 101,,Pintura,Nivel 14000 Col. C-D/8,CO2,BC,10 Kg,12/2020,12/2023,,,,378,859799,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,157,LOTE 101,,Pintura,Nivel 14000 Col. C-D/5,CO2,BC,10 Kg,12/2020,12/2023,,,,379,859792,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,158,LOTE 101,,Pintura,Montacarga sur de Pintura,CO2,BC,5 Kg,7/2021,7/2021,,,,380,1074,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,159,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,381,855850,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,160,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,382,855872,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,161,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,383,855845,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,162,LOTE 101,,Pintura,Central de Pintura - Deposito de Solvente,CO2,BC,10 Kg,11/2020,11/2023,,,,384,855853,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,163,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,385,855898,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,164,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,386,855846,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,165,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,387,853285,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,166,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,388,855856,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,167,LOTE 101,,Pintura,Central de Pintura - Sala de Tableros,CO2,BC,10 Kg,11/2020,11/2023,,,,389,855880,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,168,LOTE 101,,Pintura,Sub Estacion de Pintura,CO2,BC,10 Kg,12/2020,12/2023,,,,400,855899,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,169,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,401,855889,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,170,LOTE 101,,Pintura,Central de Pintura - Deposito de Solvente,CO2,BC,10 Kg,11/2020,11/2023,,,,402,855870,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,171,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,403,855890,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,172,LOTE 101,,Pintura,Central de Pintura,CO2,BC,10 Kg,11/2020,11/2023,,,,404,857000,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,173,LOTE 101,,Pintura,Caldera de Pintura,POLVO,ABC,10 Kg,9/2020,9/2023,,,,405,625236,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,174,LOTE 101,,Pintura,Central Termica de pintura,CO2,BC,10 Kg,,11/2023,,,,406,855879,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,175,LOTE 101,,Pintura,Compresor de Pintura,CO2,BC,5 Kg,,8/2023,,,,407,855786,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,176,LOTE 101,,Pintura,Compresor de Pintura,CO2,BC,3.5 Kg,,8/2023,,,,408,855564,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,177,LOTE 101,,Pintura,Caldera de Pintura,CO2,BC,3.5 Kg,11/2020,11/2023,,,,409,855600,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,178,LOTE 101,,Pintura,Grupo Electrogeno,POLVO,ABC,10 Kg,9/2020,9/2023,,,,410,625259,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,179,LOTE 101,,Pintura,Nivel 9000 - Col. B/01,POLVO,ABC,10 Kg,12/2020,12/2023,,,,411,625145,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,180,LOTE 101,,Pintura,Nivel 9000 - Col. B/06,POLVO,ABC,10 Kg,9/2020,9/2023,,,,412,625279,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,181,LOTE 101,,Pintura,Nivel 9000 - Col. C/01,POLVO,ABC,10 Kg,9/2020,9/2023,,,,413,625579,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,182,LOTE 101,,Pintura,Nivel 9000 - Col. C/09,POLVO,ABC,10 Kg,9/2020,9/2023,,,,414,657669,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,183,LOTE 101,,Pintura,Nivel 9000 - Col. C/07,POLVO,ABC,10 Kg,9/2020,9/2023,,,,415,625297,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,184,LOTE 101,,Pintura,Nivel 9000 - Col. C/08,POLVO,ABC,10 Kg,9/2020,9/2023,,,,416,625570,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,185,LOTE 101,,Pintura,Nivel 9000 - Col. C/10,POLVO,ABC,10 Kg,9/2020,9/2023,,,,417,625219,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,186,LOTE 101,,Pintura,Nivel 9000 - Col. C/12,POLVO,ABC,10 Kg,9/2020,9/2023,,,,418,625359,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,187,LOTE 101,,Pintura,Nivel 9000 - Col. C/13,POLVO,ABC,10 Kg,9/2020,9/2023,,,,419,657674,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,188,LOTE 101,,Pintura,Nivel 9000 - Col. C/14,POLVO,ABC,25 Kg,,7/2023,,,,420,52122,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,189,LOTE 101,,Pintura,Nivel 9000 - Col. C/15,POLVO,ABC,10 Kg,9/2020,9/2023,,,,421,625578,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,190,LOTE 101,,Pintura,Nivel 9000 - Col. C/16,POLVO,ABC,25 Kg,,7/2023,,,,422,51959,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,191,LOTE 101,,Pintura,Nivel 9000 - Col. C/17,POLVO,ABC,25 Kg,6/2021,7/2023,,,,423,52158,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,192,LOTE 101,,Pintura,Nivel 9000 - Col. C/18,POLVO,ABC,10 Kg,9/2020,9/2023,,,,424,625367,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,193,LOTE 101,,Pintura,Nivel 9000 - UTE 3,CO2,BC,5 Kg,,8/2023,,,,425,855724,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,194,LOTE 101,,Pintura,Nivel 9000 - Col. C/21 Este,POLVO,ABC,10 Kg,9/2020,9/2023,,,,426,657581,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,195,LOTE 101,,Pintura,Nivel 9000 - Col. C/21 Oeste,POLVO,ABC,25 Kg,,7/2023,,,,427,52134,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,196,LOTE 101,,Pintura,Nivel 14000 - Col. C/18,POLVO,ABC,25 Kg,,7/2023,,,,428,51843,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,197,LOTE 101,,Pintura,Nivel 14000 - Col. C/15,POLVO,ABC,25 Kg,,7/2023,,,,429,52120,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,198,LOTE 101,,Pintura,Nivel 9000 - Col. C/18 Oeste,POLVO,ABC,10 Kg,9/2020,9/2023,,,,430,625003,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,199,LOTE 101,,Pintura,Nivel 9000 - Col. C-D/19,AFFF,AB,25 Lts,,7/2020,,,,431,52116,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,200,LOTE 101,,Pintura,Nivel 9000 - Col. C-D/14,POLVO,ABC,25 Kg,,7/2023,,,,432,51957,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,201,LOTE 101,,Pintura,Nivel 9000 - Col. C-D/16,POLVO,ABC,25 Kg,,7/2023,,,,433,52160,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,202,LOTE 101,,Pintura,Nivel 9000 - Col. C-D/11,AFFF,AB,25 Lts,,7/2020,,,,434,52137,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,203,LOTE 101,,Pintura,Nivel 9000 Cuba 1,CO2,BC,5 Kg,,8/2023,,,,435,855764,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,204,LOTE 101,,Pintura,Nivel 9000 - Col. C/23,POLVO,ABC,10 Kg,,7/2023,,,,436,625596,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,205,LOTE 101,,Pintura,Nivel 9000 - Col. D/08,AFFF,AB,25 Lts,,7/2020,,,,437,52136,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,206,LOTE 101,,Pintura,Nivel 9000 - Col. C -D/03,POLVO,ABC,10 Kg,9/2020,9/2023,,,,438,625338,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,207,LOTE 101,,Pintura,Nivel 9000 - Rev. Final Esmalte,POLVO,ABC,10 Kg,9/2020,9/2023,,,,439,625100,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,208,LOTE 101,,Pintura,Nivel 9000 - Rev. Final Esmalte,POLVO,ABC,10 Kg,9/2020,9/2023,,,,450,625558,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,209,LOTE 101,,Pintura,Nivel 9000 - Col. D/10,POLVO,ABC,10 Kg,9/2020,9/2023,,,,451,625544,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,210,LOTE 101,,Pintura,Nivel 9000 - Cabina Esmalte,CO2,BC,5 Kg,,8/2023,,,,452,857963,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,211,LOTE 101,,Pintura,Nivel 9000 - Col. D/14,POLVO,ABC,10 Kg,9/2020,9/2023,,,,453,625226,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,212,LOTE 101,,Pintura,Nivel 9000 - Cabina Esmalte,CO2,BC,10 Kg,11/2020,11/2023,,,,454,856985,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,213,LOTE 101,,Pintura,Nivel 9000 - Col. E/19,POLVO,ABC,10 Kg,9/2020,9/2023,,,,455,625513,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,214,LOTE 101,,Pintura,Nivel 9000 - Col. E/17,POLVO,ABC,10 Kg,9/2020,9/2023,,,,456,625325,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,215,LOTE 101,,Pintura,Nivel 9000 - Oficina,CO2,BC,3.5 Kg,,8/2023,,,,457,855680,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,216,LOTE 101,,Pintura,Nivel 9000 - Oficina,CO2,BC,3.5 Kg,,8/2023,,,,458,855582,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,217,LOTE 101,,Pintura,Nivel 9000 - Enfermería,CO2,BC,3.5 Kg,,8/2023,,,,459,855621,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,218,LOTE 101,,Pintura,Nivel 9000 - Col. E/10,POLVO,ABC,10 Kg,9/2020,9/2023,,,,460,625553,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,219,LOTE 101,,Pintura,Nivel 9000 - Col. E/06,POLVO,ABC,10 Kg,9/2020,9/2023,,,,461,625559,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,220,LOTE 101,,Pintura,Nivel 9000 - Col. E/03,POLVO,ABC,10 Kg,9/2020,9/2023,,,,462,624909,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,221,LOTE 101,,Pintura,Nivel 9000 - Cabina de Lijado,POLVO,ABC,10 Kg,9/2020,9/2023,,,,464,625573,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,222,LOTE 101,,Pintura,Nivel 9000 - Cabina de Lijado,CO2,BC,10 Kg,11/2020,11/2023,,,,465,856970,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,223,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,CO2,BC,5 Kg,6/2021,6/2021,,,,466,1320,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,224,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,CO2,BC,5 Kg,6/2021,6/2021,,,,467,1488,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,225,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,CO2,BC,5 Kg,6/2021,6/2021,,,,468,1482,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,226,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,CO2,BC,5 Kg,6/2021,6/2021,,,,469,1547,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,227,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,CO2,BC,5 Kg,6/2021,6/2021,,,,470,1242,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,228,LOTE 101,,Pintura,Nivel 20000 - Col. B/12,POLVO,ABC,10 Kg,,7/2023,,,,471,625230,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,229,LOTE 101,,Pintura,Nivel 20000 - Col. B/15,POLVO,ABC,10 Kg,,7/2023,,,,472,625575,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,230,LOTE 101,,Pintura,Nivel 20000 - Col. B/18,POLVO,ABC,10 Kg,,7/2023,,,,473,625232,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,231,LOTE 101,,Pintura,Nivel 20000 - Col. B/21,POLVO,ABC,10 Kg,,7/2023,,,,474,625564,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,232,LOTE 101,,Pintura,Nivel 20000 - Col. C/22,CO2,BC,10 Kg,11/2020,11/2023,,,,475,855843,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,233,LOTE 101,,Pintura,Nivel 20000 - Col. C/19,CO2,BC,10 Kg,11/2020,11/2023,,,,476,855868,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,234,LOTE 101,,Pintura,Nivel 20000 - Col. C/16,CO2,BC,10 Kg,11/2020,11/2023,,,,477,853296,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,235,LOTE 101,,Pintura,Nivel 20000 - Col. C/14,AFFF,AB,25 Lts,,7/2020,,,,478,52141,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,236,LOTE 101,,Pintura,Nivel 20000 - Col. C/10,CO2,BC,10 Kg,11/2020,11/2023,,,,479,855876,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,237,LOTE 101,,Pintura,Nivel 20000 - Col. D/09,POLVO,ABC,10 Kg,,7/2023,,,,480,624839,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,238,LOTE 101,,Pintura,Nivel 20000 - Col. D/12,CO2,BC,10 Kg,11/2020,11/2023,,,,481,855842,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,239,LOTE 101,,Pintura,Nivel 20000 - Col. D/15,CO2,BC,10 Kg,11/2020,11/2023,,,,482,855847,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,240,LOTE 101,,Pintura,Nivel 20000 - Col. D/18,POLVO,ABC,25 Kg,,7/2023,,,,483,52107,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,241,LOTE 101,,Pintura,Nivel 20000 - Col. D/21,POLVO,ABC,10 Kg,,7/2023,,,,484,625238,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,242,LOTE 101,,Pintura,Nivel 20000 - Col. E/20,POLVO,ABC,10 Kg,,7/2023,,,,485,625074,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,243,LOTE 101,,Pintura,Nivel 20000 - Col. E/17,POLVO,ABC,10 Kg,,7/2023,,,,486,625231,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,244,LOTE 101,,Pintura,Nivel 20000 - Col. E/14,POLVO,ABC,25 Kg,,7/2023,,,,487,627677,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,245,LOTE 101,,Pintura,Nivel 20000 - Col. E/11,POLVO,ABC,10 Kg,,7/2023,,,,488,625237,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,246,LOTE 101,,Pintura,Nivel 20000 - Col C/16 bis,CO2,BC,10 Kg,12/2020,12/2023,,,,489,858295,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,247,LOTE 101,,Chapisteria,Sala Bomba de Enfriamiento,CO2,BC,5 Kg,,8/2023,,,,905,855811,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,248,LOTE 101,,TAR,T.A.R - Tanque,CO2,BC,5 Kg,12/2020,12/2024,,,,906,855565,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,249,LOTE 101,,TAR,T.A.R - Dosificacion,CO2,BC,5 Kg,12/2020,12/2024,,,,907,855645,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,250,LOTE 101,,TAR,T.A.R - Sala de tableros,CO2,BC,5 Kg,11/2020,11/2024,,,,908,855629,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,251,LOTE 101,,TAR,T.A.R - interno pasillo,CO2,BC,5 Kg,3/2021,3/2025,,,,909,855636,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,252,LOTE 101,,TAR,T.A.R - interno pasillo,CO2,BC,5 Kg,3/2021,3/2021,,,,910,855651,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,253,LOTE 101,,TAR,T.A.R - Agua Desmineralizada,CO2,BC,5 Kg,12/2020,12/2024,,,,911,855622,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,254,LOTE 101,,TAR,T.A.R - Prensa barro,CO2,BC,5 Kg,3/2021,3/2025,,,,912,857014,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,255,LOTE 101,,TAR,T:A.R - Grupo Electrogeno,AFFF,AB,10 Lts,11/2020,11/2020,,,,913,468827,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,256,LOTE 101,,TAR,Sub Estación T.A.R,CO2,BC,10 Kg,12/2020,11/2020,,,,914,858755,2018,Norbco,En planta,,#N/A,#N/A,Cassaro
+,257,LOTE 101,,TAR,Sub Estación T.A.R,CO2,BC,10 Kg,12/2020,12/2023,,,,915,858299,2018,Norbco,En planta,,#N/A,#N/A,Cassaro
+,258,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Mecánica,CO2,BC,10 Kg,12/2020,12/2023,,,,921,858800,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,259,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Pasillo,CO2,BC,10 Kg,12/2020,12/2023,,,,922,858791,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,260,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Carroceria,CO2,BC,10 Kg,12/2020,12/2023,,,,923,858290,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,261,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Mecánica,CO2,BC,10 Kg,12/2020,12/2023,,,,924,858296,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,262,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Pasillo,CO2,BC,10 Kg,12/2020,12/2023,,,,925,858771,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,263,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Mecánica,CO2,BC,10 Kg,12/2020,12/2023,,,,926,858288,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,264,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Carroceria,CO2,BC,10 Kg,12/2020,12/2023,,,,927,858293,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,265,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Carroceria,CO2,BC,10 Kg,12/2020,12/2023,,,,928,858766,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,266,LOTE 101,,Inst. Generales,Sub Estación 66 KW - Grupo Electrogeno,POLVO,ABC,5 Kg,12/2020,12/2023,,,,929,657373,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,267,LOTE 101,,Pintura,Dep. Combustible Central Hidrica norte,POLVO,ABC,5 Kg,9/2020,9/2023,,,,930,760566,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,268,LOTE 101,,Obradores,Iscot - Descanso,POLVO,ABC,5 Kg,10/2020,10/2023,,,,1071,647705,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,269,LOTE 101,,Obradores,Iscot - Oficina,CO2,BC,5 Kg,11/2020,11/2023,,,,1072,857599,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,270,LOTE 101,,Obradores,Kaizen Auto - Oficina,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1073,760259,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,271,LOTE 101,,Obradores,Iscot - Despintado,CO2,BC,5 Kg,,11/2023,,,,1074,857428,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,272,LOTE 101,,Obradores,Iscot - Despintado,AFFF,AB,10 Lts,12/2020,12/2020,,,,1075,300333,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,273,LOTE 101,,Obradores,Iscot - Despintado,POLVO,ABC,10 Kg,,10/2023,,,,1076,676153,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,274,LOTE 101,,Obradores,Iscot - Ex prensado,CO2,BC,3.5 Kg,,8/2025,,,,1077,857103,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,275,LOTE 101,,Obradores,Iscot - Ex prensado,CO2,BC,3.5 Kg,3/2021,8/2025,,,,1078,852956,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,276,LOTE 101,,Pintura,Montacarga norte de Pintura,CO2,BC,5 Kg,,9/2023,,,,1079,855752,2018,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,277,LOTE 101,,Obradores,Kaizen Auto - Dposito Ex ABC,POLVO,ABC,10 Kg,6/2021,6/2024,,,,1080,676083,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,278,LOTE 101,,Obradores,Kaizen Auto - Galpon externo,POLVO,ABC,10 Kg,9/2020,9/2023,,,,1081,676032,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,279,LOTE 101,,Obradores,Kaizen Auto - Box 1 taller,POLVO,ABC,5 Kg,12/2020,12/2023,,,,1082,760394,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,280,LOTE 101,,Obradores,Kaizen Auto - Box 3 taller,POLVO,ABC,5 Kg,12/2020,12/2023,,,,1083,760934,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,281,LOTE 101,,Obradores,Kaizen Auto - Box 4-5 taller,POLVO,ABC,10 Kg,9/2020,9/2023,,,,1084,676025,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,282,LOTE 101,,Obradores,Kaizen Auto - Box 6-7 taller,POLVO,ABC,10 Kg,,7/2023,,,,1085,676104,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,283,LOTE 101,,Obradores,Iscot - Taller mantenimiento,CO2,BC,5 Kg,3/2021,3/2023,,,,1086,857463,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,284,LOTE 101,,Obradores,Iscot - Taller mantenimiento,CO2,BC,10 Kg,3/2021,3/2023,,,,1087,858796,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,285,LOTE 101,,Obradores,Kaizen Auto - Galpon de Pintado,POLVO,ABC,10 Kg,10/2020,10/2024,,,,1088,676736,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,286,LOTE 101,,Obradores,Kaizen Auto - Galpon de Pintado,POLVO,ABC,10 Kg,10/2020,10/2023,,,,1089,675977,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,287,LOTE 101,,Obradores,Kaizen Auto - Galpon de Pintado,POLVO,ABC,10 Kg,10/2020,10/2023,,,,1090,675994,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,288,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1091,2439,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,289,LOTE 101,,Chapisteria,kaizen Auto Galpon Guillotina,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1092,886362,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,290,LOTE 101,,Obradores,Kaizen Auto - Galpon guillotina / dobladora,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1092,886362,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,291,LOTE 101,,Chapisteria,kaizen Auto Galpon Guillotina,POLVO,ABC,5 Kg,7/2021,7/2023,,,,1093,647558,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,292,LOTE 101,,Obradores,Kaizen Auto - Galpon guillotina / dobladora,POLVO,ABC,5 Kg,7/2021,7/2023,,,,1093,647558,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,293,LOTE 101,,Obradores,Kaizen Auto - Galpon guillotina / dobladora,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1094,886723,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,294,LOTE 101,,Obradores,Kaizen Auto - Deposito de gases,POLVO,ABC,10 Kg,9/2020,9/2023,,,,1095,676704,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,295,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,10 Kg,12/2020,12/2023,,,,1096,657954,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,296,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,10 Kg,12/2021,12/2023,,,,1097,657952,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,297,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,10 Kg,12/2021,12/2023,,,,1098,657790,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,298,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1099,5922,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,299,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1100,4710,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,300,LOTE 101,,Pintura,Central Hidrica Norte,CO2,BC,5 Kg,8/2021,8/2023,,,,1070,855746,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,301,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1102,4814,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,302,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1103,4392,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,303,LOTE 101,,Pintura,Depósito Químicos Externo,AFFF,AB,25 Lts,,5/2023,,,,1104,52139,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,304,LOTE 101,,Pintura,Depósito Químicos Externo,AFFF,AB,25 Lts,,5/2023,,,,1105,51974,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,305,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1106,3104,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,306,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1107,2674,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,307,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1108,2878,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,308,LOTE 101,,Pintura,Playa Elta antigranizo de Pintura,POLVO,ABC,5 Kg,6/2021,6/2021,,,,1109,4769,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,309,LOTE 101,,Pintura,Lavadero de Pintura,POLVO,ABC,10 Kg,12/2020,12/2023,,,,1110,760731,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,310,LOTE 98,,Montaje,Col. A -11,POLVO,ABC,10 Kg,7/2021,7/2023,,,,491,625220,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,311,LOTE 98,,Montaje,Col. B - 11,CO2,BC,3.5 Kg,7/2021,7/2023,,,,492,855644,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,312,LOTE 98,,Montaje,Buy Part,POLVO,ABC,5 Kg,7/2021,7/2023,,,,493,648020,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,313,LOTE 98,,Montaje,Taller CEP,POLVO,ABC,10 Kg,7/2021,7/2023,,,,494,625322,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,314,LOTE 98,,Montaje,Mantenimiento Profesional,POLVO,ABC,10 Kg,7/2021,7/2023,,,,495,624834,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,315,LOTE 98,,Montaje,Col. B - 9,POLVO,ABC,10 Kg,7/2021,7/2023,,,,496,624862,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,316,LOTE 98,,Montaje,Enfermeria,CO2,BC,3.5 Kg,7/2021,7/2023,,,,497,855668,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+857548,317,LOTE 98,,Montaje,Sub Estacion - Montaje,CO2,BC,10 Kg,11/2020,11/2023,,,,498,855895,2018,Drago,En recarga,857548,#N/A,#N/A,Cassaro
+857543,318,LOTE 98,,Montaje,Sub Estacion - Montaje,CO2,BC,10 Kg,11/2020,11/2023,,,,499,855894,2018,Drago,En recarga,857543,#N/A,#N/A,Cassaro
+857405,319,LOTE 98,,Montaje,Sub Estacion - Montaje,CO2,BC,10 Kg,11/2020,11/2023,,,,500,855896,2018,Drago,En recarga,857405,#N/A,#N/A,Cassaro
+,320,LOTE 98,,Montaje,Col. B - 7,POLVO,ABC,10 Kg,7/2021,7/2023,,,,501,625190,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,321,LOTE 98,,Montaje,Oficina Montaje - Logistica,CO2,BC,3.5 Kg,7/2021,7/2023,,,,502,855661,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,322,LOTE 98,,Montaje,Entre  Col. A y B -5,POLVO,ABC,10 Kg,7/2021,7/2023,,,,503,625401,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,323,LOTE 98,,Montaje,Col. B -5  Cabina de Cera,CO2,BC,10 Kg,11/2020,11/2023,,,,504,855852,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,324,LOTE 98,,Montaje,Oficina EHS - Ingenieria,CO2,BC,3.5 Kg,7/2021,7/2023,,,,505,855658,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,325,LOTE 98,,Montaje,Oficina Montaje - Logistica,CO2,BC,3.5 Kg,7/2021,7/2023,,,,506,855567,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,326,LOTE 98,,Montaje,Col. B - 3,POLVO,ABC,10 Kg,7/2021,7/2023,,,,507,657657,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,327,LOTE 98,,Montaje,Sala de Reunion - Conferencia,CO2,BC,3.5 Kg,7/2021,7/2023,,,,508,855580,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,328,LOTE 98,,Montaje,Sala de Reunion - Conferencia,POLVO,ABC,10 Kg,7/2021,7/2023,,,,509,625572,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,329,LOTE 98,,Montaje,Calidad - Analisis Vehiculos,POLVO,ABC,10 Kg,7/2021,7/2023,,,,510,625467,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,330,LOTE 98,,Montaje,Calidad - Analisis Vehiculos,POLVO,ABC,10 Kg,7/2021,7/2023,,,,511,625583,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,331,LOTE 98,,Montaje,Entre Col. C -5 y 6 Cabina de Cera,CO2,BC,10 Kg,11/2020,11/2023,,,,512,855892,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,332,LOTE 98,,Montaje,Col. D -11,POLVO,ABC,10 Kg,7/2021,7/2023,,,,513,657614,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,333,LOTE 98,,Montaje,Col. D - 10,CO2,BC,3.5 Kg,7/2021,7/2023,,,,514,855695,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,334,LOTE 98,,Montaje,Col. D - 9,POLVO,ABC,10 Kg,7/2021,7/2023,,,,515,625096,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,335,LOTE 98,,Montaje,Col. D - 8,CO2,BC,3.5 Kg,7/2021,7/2023,,,,516,855558,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,336,LOTE 98,,Montaje,col.D- 6,CO2,BC,3.5 Kg,7/2021,7/2023,,,,517,857141,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,337,LOTE 98,,Montaje,Col. D - 4,CO2,BC,3.5 Kg,7/2021,7/2023,,,,518,855584,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,338,LOTE 98,,Montaje,Col. D - 2,POLVO,ABC,10 Kg,7/2021,7/2023,,,,519,625104,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,339,LOTE 98,,Montaje,Col. E - 11,POLVO,ABC,10 Kg,7/2021,7/2023,,,,520,625301,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,340,LOTE 98,,Montaje,Col. E - 12,CO2,BC,3.5 Kg,7/2021,7/2023,,,,521,855673,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,341,LOTE 98,,Montaje,Col. F - 9,CO2,BC,3.5 Kg,7/2021,7/2023,,,,522,855557,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,342,LOTE 98,,Montaje,Col. F - 7,CO2,BC,3.5 Kg,7/2021,7/2023,,,,523,855576,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,343,LOTE 98,,Montaje,Col. F - 5,POLVO,ABC,10 Kg,7/2021,7/2023,,,,524,624892,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,344,LOTE 98,,Montaje,Col. F - 3,CO2,BC,10 Kg,11/2020,11/2023,,,,525,855882,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,345,LOTE 98,,Montaje,Col. F - 1    - Process Center,POLVO,ABC,10 Kg,7/2021,7/2023,,,,526,625550,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,346,LOTE 98,,Montaje,Col. G - 3,POLVO,ABC,10 Kg,7/2021,7/2023,,,,527,625337,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,347,LOTE 98,,Montaje,Piso Tecnico entre Col. G - 10 y 11,POLVO,ABC,10 Kg,7/2021,7/2023,,,,528,624799,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,348,LOTE 98,,Montaje,Piso Tecnico entre Col. G - 10 y 11,POLVO,ABC,10 Kg,3/2021,3/2023,,,,529,624955,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,349,LOTE 98,,Montaje,Col. G - 11,POLVO,ABC,10 Kg,6/2020,6/2023,,,,530,625053,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,350,LOTE 98,,Montaje,Col. H - 12,POLVO,ABC,10 Kg,7/2021,7/2023,,,,531,625253,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,351,LOTE 98,,Montaje,Col. H - 10,CO2,BC,3.5 Kg,7/2021,7/2023,,,,532,855675,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,352,LOTE 98,,Montaje,Entre Col. H - 8,CO2,BC,3.5 Kg,7/2021,7/2023,,,,533,855568,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,353,LOTE 98,,Montaje,Entre Col. H - 6,POLVO,ABC,10 Kg,7/2021,7/2023,,,,534,625264,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,354,LOTE 98,,Montaje,Entre Col. H - 4,POLVO,ABC,10 Kg,7/2021,7/2023,,,,535,625200,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+855863,355,LOTE 98,,Montaje,Entre Col. H  (3 y 4 bis),CO2,BC,10 Kg,11/2020,11/2023,,,,536,855866,2018,Drago,En recarga,855863,#N/A,#N/A,Cassaro
+,356,LOTE 98,,Montaje,Entre Col. H  (3 y 4),POLVO,ABC,25 Kg,7/2021,7/2023,,,,537,52131,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,357,LOTE 98,,Montaje,Col. H - 2,POLVO,ABC,10 Kg,7/2021,7/2023,,,,538,625229,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,358,LOTE 98,,Montaje,Col. H - 1,POLVO,ABC,10 Kg,7/2021,7/2023,,,,539,625485,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,359,LOTE 98,,Montaje,Col. I - 3,AFFF,AB,100 Lts,7/2021,7/2022,,,,540,51030,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,360,LOTE 98,,Montaje,Col. I - 9,CO2,BC,3.5 Kg,7/2021,7/2023,,,,541,855689,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,361,LOTE 98,,Montaje,Col. L - 11,POLVO,ABC,10 Kg,7/2021,7/2023,,,,542,625398,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,362,LOTE 98,,Montaje,Col. L - 9,CO2,BC,3.5 Kg,7/2021,7/2023,,,,543,855585,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,363,LOTE 98,,Montaje,Col. L - 7,CO2,BC,3.5 Kg,7/2021,7/2023,,,,544,855694,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,364,LOTE 98,,Montaje,Col. L - 5,CO2,BC,3.5 Kg,7/2021,7/2023,,,,545,855577,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,365,LOTE 98,,Montaje,Col. L - 3,POLVO,ABC,10 Kg,7/2021,7/2023,,,,546,625109,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,366,LOTE 98,,Montaje,Col. L - 1,POLVO,ABC,10 Kg,3/2021,3/2023,,,,547,625208,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,367,LOTE 98,,Montaje,Col. M - 12,POLVO,ABC,10 Kg,7/2021,7/2023,,,,548,625290,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,368,LOTE 98,,Montaje,Col. N - 10,POLVO,ABC,10 Kg,7/2021,7/2023,,,,549,625209,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,369,LOTE 98,,Montaje,Col. N - 8,POLVO,ABC,10 Kg,7/2021,7/2023,,,,550,625402,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,370,LOTE 98,,Montaje,Col. N - 6,POLVO,ABC,10 Kg,7/2021,7/2023,,,,551,657640,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,371,LOTE 98,,Montaje,Col. N - 4,POLVO,ABC,10 Kg,7/2021,7/2023,,,,552,625595,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,372,LOTE 98,,Montaje,Col. N - 2,POLVO,ABC,10 Kg,7/2021,7/2023,,,,553,625205,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,373,LOTE 98,,Montaje,Col. N - 1,POLVO,ABC,10 Kg,7/2021,7/2023,,,,554,625233,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,374,LOTE 98,,Montaje,Tunel a pista  Montaje,POLVO,ABC,5 Kg,7/2020,7/2023,,,,555,648030,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,375,LOTE 98,,Montaje,Alero Norte Montaje,POLVO,ABC,5 Kg,7/2021,7/2023,,,,557,648016,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,376,LOTE 98,,Montaje,Tunel a pista  Montaje,POLVO,ABC,5 Kg,7/2020,7/2023,,,,556,648010,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,377,LOTE 98,,Montaje,Alero Norte Montaje,POLVO,ABC,5 Kg,7/2021,7/2023,,,,558,647013,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,378,LOTE 98,,Montaje,Col F-13,POLVO,ABC,5 Kg,7/2020,7/2023,,,,559,648028,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,379,LOTE 98,,Montaje,Grupo Electrogeno Montaje,POLVO,ABC,10 Kg,7/2021,7/2023,,,,560,625557,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,380,LOTE 98,,Montaje,Alero Sur Montaje,POLVO,ABC,5 Kg,7/2021,7/2023,,,,561,647432,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,381,LOTE 98,,Montaje,Alero Sur Montaje,POLVO,ABC,5 Kg,7/2021,7/2023,,,,562,648017,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,382,LOTE 98,,Montaje,Alero Sur Montaje,POLVO,ABC,5 Kg,7/2021,7/2023,,,,563,648011,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,383,LOTE 98,,Montaje,Vestuario de Montaje,POLVO,ABC,10 Kg,7/2021,7/2023,,,,564,625271,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,384,LOTE 98,,Montaje,Vestuario de Montaje,POLVO,ABC,10 Kg,7/2021,7/2023,,,,565,625381,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,385,LOTE 98,,Montaje,Col. E/5 - 6  Montaje,CO2,BC,3.5 Kg,7/2021,7/2023,,,,566,855674,2018,Drago,En planta,,#N/A,#N/A,Cassaro
+,386,LOTE 98,,Montaje,Col. E- 7  Montaje,POLVO,ABC,25 Kg,7/2021,7/2023,,,,567,51954,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,387,LOTE 98,,Montaje,Comunication Center,POLVO,ABC,5 Kg,7/2021,7/2023,,,,568,760398,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,388,LOTE 98,,Montaje,Comunication Center,POLVO,ABC,5 Kg,7/2021,7/2023,,,,569,760354,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,389,LOTE 98,,Montaje,Process Center,POLVO,ABC,10 Kg,7/2021,7/2023,,,,572,676015,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,390,LOTE 98,,ELTA,Oficinas Playa Elta - interno,POLVO,ABC,10 Kg,7/2021,7/2023,,,,931,675846,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,391,LOTE 98,,ELTA,Oficinas Playa Elta - externo,POLVO,ABC,10 Kg,7/2021,7/2023,,,,932,625298,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,392,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,933,647217,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,393,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,934,647227,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,394,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,935,647645,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,395,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,936,647597,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,396,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,937,647692,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,397,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,938,647693,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,398,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,939,647995,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,399,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,940,646997,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,400,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,7/2021,7/2023,,,,941,647999,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,401,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,942,886641,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,402,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,943,886802,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,403,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,944,686556,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,404,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,945,886604,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,405,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,946,800040,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,406,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,947,674237,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,407,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,948,674198,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,408,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,949,886543,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,409,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,950,672970,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,410,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1057,799981,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,411,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1058,673695,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,412,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1059,673926,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,413,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1060,886895,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,414,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1061,886386,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,415,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1062,760755,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,416,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1063,886781,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,417,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1064,886698,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,418,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1065,674012,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,419,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2024,,,,1066,886798,2019,Melisan,En planta,,#N/A,#N/A,Cassaro
+,420,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1067,673748,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+,421,LOTE 98,,ELTA,Playa Elta,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1068,674017,2018,Melisan,En planta,,#N/A,#N/A,Cassaro
+1554,422,LOTE 98,,Almacén indirectos,Almacen Indirecto FCA,CO2,BC,5 Kg,12/2020,12/2021,,,,951,855736,2018,Drago,En recarga,1554,#N/A,#N/A,Cassaro
+300173,423,LOTE 98,,Almacén indirectos,Almacen Indirecto FCA,AFFF,AB,10 Lts,12/2020,12/2020,,,,952,468742,2018,Melisan,En recarga,300173,#N/A,#N/A,Cassaro
+468250,424,LOTE 98,,Almacén indirectos,Almacen Indirecto FCA,AFFF,AB,10 Lts,12/2020,12/2020,,,,954,468490,2018,Melisan,En recarga,468250,#N/A,#N/A,Cassaro
+468437,425,LOTE 98,,Almacén indirectos,Almacen Indirecto FCA,AFFF,AB,10 Lts,12/2020,12/2020,,,,955,468431,2018,Melisan,En recarga,468437,#N/A,#N/A,Cassaro
+855654,426,LOTE 98,,Almacén indirectos,Almacen Indirecto FCA,CO2,BC,3.5 Kg,7/2021,7/2023,,,,956,855679,2018,Drago,En recarga,855654,#N/A,#N/A,Cassaro
+300177,427,LOTE 98,,Almacén indirectos,Almacen Indirecto FCA,AFFF,AB,10 Lts,12/2020,12/2020,,,,957,468474,2018,Melisan,En recarga,300177,#N/A,#N/A,Cassaro
+52121,428,LOTE 98,,Almacén indirectos,Almacen Indirecto FCA,AFFF,AB,25 Lts,5/2021,5/2022,,,,958,52166,2018,Melisan,En recarga,52121,K,5/2021,Cassaro
+,429,LOTE 98,,Seguridad Patrimonial,Guardia Pto. N° 5,POLVO,ABC,10 Kg,3/2021,3/2025,,,,966,657845,2010,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,430,LOTE 98,,Instalaciones Generales,Sub Estación de gas Puesto 5,POLVO,ABC,5 Kg,12/2020,12/2023,,,,867,657184,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,431,LOTE 98,,Instalaciones Generales,Sub Estación de gas Puesto 5,POLVO,ABC,5 Kg,12/2020,12/2023,,,,868,657340,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,432,LOTE 98,,Instalaciones Generales,Sub Estación de gas Puesto 5,POLVO,ABC,5 Kg,5/2021,5/2023,,,,969,657112,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,433,LOTE 98,,Instalaciones Generales,Sub Estaciónde gas Puesto 5,POLVO,ABC,5 Kg,5/2021,12/2023,,,,970,760538,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+858289,434,LOTE 98,,Instalaciones Generales,Sub Estacion - Ex Uno - Duna,CO2,BC,10 Kg,12/2020,12/2023,,,,971,105535,2018,Yukon,En recarga,858289,#N/A,#N/A,Cassaro
+858703,435,LOTE 98,,Instalaciones Generales,Sub Estacion - Ex Uno - Duna,CO2,BC,10 Kg,12/2020,12/2023,,,,972,106667,2018,Yukon,En recarga,858703,#N/A,#N/A,Cassaro
+,436,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,973,186541,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,437,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,974,186551,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,438,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,975,186593,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,439,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,976,186569,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,440,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,977,186734,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,441,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,978,186770,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,442,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,979,186773,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,443,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,980,186889,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,444,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,10 Kg,12/2020,12/2022,,,,981,186649,2017,Melisam,En planta,,#N/A,#N/A,Cassaro
+,445,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,5 Kg,9/2020,9/2023,,,,986,657406,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,446,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,5 Kg,10/2020,10/2023,,,,987,657188,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,447,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,5 Kg,9/2020,9/2023,,,,988,657213,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,448,LOTE 98,,Montaje,Ex Uno - Duna,POLVO,ABC,5 Kg,9/2020,9/2023,,,,989,669482,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,449,LOTE 98,,Montaje,Galpon Ex Denso,POLVO,ABC,5 Kg,10/2020,10/2023,,,,991,669402,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,450,LOTE 98,,Montaje,Galpon Ex Denso,POLVO,ABC,5 Kg,10/2020,10/2023,,,,992,657140,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,451,LOTE 98,,Montaje,Galpon Ex Denso,POLVO,ABC,5 Kg,9/2020,9/2023,,,,993,669473,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,452,LOTE 98,,Montaje,Galpon Ex Denso,POLVO,ABC,5 Kg,10/2020,10/2023,,,,994,657205,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,453,LOTE 98,,Montaje,Galpon Ex Denso,POLVO,ABC,5 Kg,10/2020,10/2023,,,,995,656818,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,454,LOTE 98,,Montaje,Galpon Ex Denso,POLVO,ABC,5 Kg,10/2020,10/2023,,,,996,669269,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,455,LOTE 98,,Montaje,Galpon Ex Denso,POLVO,ABC,5 Kg,6/2021,6/2023,,,,997,673002,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,456,LOTE 98,,Montaje,Galpon Ex Denso,CO2,BC,3.5 Kg,3/2021,3/2025,,,,998,2190,2018,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,457,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,CO2,BC,5 Kg,12/2020,3/2021,,,,1001,1684,2018,Horizonte,En planta,,#N/A,#N/A,Cassaro
+468506,458,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,AFFF,AB,10 Lts,12/2020,12/2020,,,,1002,468789,2018,Melisan,En recarga,468506,#N/A,#N/A,Cassaro
+468308,459,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,AFFF,AB,10 Lts,12/2020,12/2020,,,,1003,468741,2018,Melisan,En recarga,468308,#N/A,#N/A,Cassaro
+300225,460,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,AFFF,AB,10 Lts,12/2020,12/2020,,,,1004,468819,2018,Melisan,En recarga,300225,#N/A,#N/A,Cassaro
+300485,461,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,AFFF,AB,10 Lts,12/2020,12/2020,,,,1005,468740,2018,Melisan,En recarga,300485,#N/A,#N/A,Cassaro
+300432,462,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,AFFF,AB,10 Lts,11/2020,11/2020,,,,1006,468813,2018,Melisan,En recarga,300432,#N/A,#N/A,Cassaro
+300375,463,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,AFFF,AB,10 Lts,11/2020,11/2020,,,,1007,468780,2018,Melisan,En recarga,300375,#N/A,#N/A,Cassaro
+,464,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,POLVO,ABC,5 Kg,3/2021,3/2025,,,,1008,4439,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,465,LOTE 98,,Montaje,Deposito de combustibles  - Montaje,POLVO,ABC,5 Kg,3/2021,3/2021,,,,1009,55075,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+657773,466,LOTE 98,,Montaje,Foza Pista de Prueba,POLVO,ABC,10 Kg,10/2020,10/2023,,,,1042,625317,1018,Cassaro,En recarga,657773,#N/A,#N/A,Cassaro
+,467,LOTE 98,,Montaje,Pista de Pruebas,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1043,6404,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,468,LOTE 98,,Montaje,Pista de Pruebas,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1044,5922,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,469,LOTE 98,,Montaje,Pista de Pruebas,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1045,4669,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,470,LOTE 98,,Montaje,Pista de Pruebas,POLVO,ABC,5 Kg,6/2021,6/2023,,,,1046,2757,2011,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,471,LOTE 98,,Seguridad Patrimonial,Guardia Pto. N° 6  reserva,POLVO,ABC,5 Kg,3/2021,3/2024,,,,1011,1021,2010,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,472,LOTE 98,,Seguridad Patrimonial,Guardia Pto. N° 6,CO2,BC,3.5 Kg,7/2021,7/2025,,,,1012,857137,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+2566,473,LOTE 98,,Comedor sur,Comedor Sur,POLVO,ABC,5 Kg,10/2020,10/2021,,,,1013,656201,2018,Cassaro,En recarga,2566,#N/A,#N/A,Cassaro
+,474,LOTE 98,,Comedor sur,Comedor Sur,POLVO,ABC,5 Kg,10/2020,10/2023,,,,1014,656193,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+4223,475,LOTE 98,,Comedor sur,Comedor Sur,POLVO,ABC,10 Kg,12/2020,12/2024,,,,1015,657779,2018,Cassaro,En recarga,4223,#N/A,#N/A,Cassaro
+426,476,LOTE 98,,Comedor sur,Comedor Sur,POLVO,ABC,5 Kg,10/2020,10/2020,,,,1016,656266,2018,Cassaro,En recarga,426,#N/A,#N/A,Cassaro
+5002,477,LOTE 98,,Comedor sur,Comedor Sur,POLVO,ABC,5 Kg,10/2020,10/2023,,,,1017,656150,2018,Cassaro,En recarga,5002,#N/A,#N/A,Cassaro
+,478,LOTE 98,,Comedor sur,Comedor Sur,POLVO,ABC,5 Kg,10/2020,10/2023,,,,1018,648032,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,479,LOTE 98,,Instalaciones Generales,Caldera,POLVO,ABC,10 Kg,3/2021,3/2025,,,,1025,2142,2010,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,480,LOTE 98,,Instalaciones Generales,Caldera,CO2,BC,5 Kg,3/2021,3/2021,,,,1026,1368,2001,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,481,LOTE 98,,Ingenieria. de Producto,Product Development,CO2,BC,3.5 Kg,7/2021,7/2021,,,,1027,106069,2018,Yukon,En planta,,#N/A,#N/A,Cassaro
+,482,LOTE 98,,Ingenieria. de Producto,Product Development,CO2,BC,3.5 Kg,7/2021,7/2021,,,,1028,106180,1996,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,483,LOTE 98,,Supply Chain,Suplpy Chain,CO2,BC,3.5 Kg,7/2021,7/2021,,,,1029,106064,1996,Yukon,En planta,,#N/A,#N/A,Cassaro
+,484,LOTE 98,,Supply Chain,Suppy Chain,CO2,BC,3.5 Kg,7/2021,7/2021,,,,1030,106190,1996,Yukon,En planta,,#N/A,#N/A,Cassaro
+,485,LOTE 98,,Supply Chain,Supply Chain,CO2,BC,3.5 Kg,7/2021,7/2021,,,,1031,106129,1996,Yukon,En planta,,#N/A,#N/A,Cassaro
+676114,486,LOTE 98,,Supply Chain,Supply Chain oficina,POLVO,ABC,10 Kg,9/2020,9/2023,,,,1032,676135,2018,Cassaro,En recarga,676114,#N/A,#N/A,Cassaro
+,487,LOTE 98,,Supply Chain,Supply Chain Archivo,POLVO,ABC,10 Kg,9/2020,9/2023,,,,1033,657892,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,488,LOTE 98,,Supply Chain,Supply Chain Direccion,HALON,ABC,5 Kg,10/2020,10/2021,,,,1034,4614,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,489,LOTE 98,,Seguridad Patrimonial,Guardia Pto. N° 7,POLVO,ABC,10 Kg,9/2020,9/2023,,,,1037,1789,2010,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,490,LOTE 98,,Seguridad Patrimonial,Guardia Pto. N° 7,CO2,BC,3.5 Kg,8/2020,8/2023,,,,1038,106176,1996,Yukon,En planta,,#N/A,#N/A,Cassaro
+4605,491,LOTE 98,,Seguridad Patrimonial,Playa Pto. N° 7,POLVO,ABC,5 Kg,7/2021,7/2023,,,,583,760504,2018,Cassaro,En recarga,4605,#N/A,#N/A,Cassaro
+4477,492,LOTE 98,,Seguridad Patrimonial,Playa Pto. N° 7,POLVO,ABC,5 Kg,7/2021,7/2023,,,,584,656196,2018,Cassaro,En recarga,4477,#N/A,#N/A,Cassaro
+2076,493,LOTE 98,,Seguridad Patrimonial,Playa Pto. N° 7,POLVO,ABC,5 Kg,7/2021,7/2023,,,,585,669272,2018,Cassaro,En recarga,2076,#N/A,#N/A,Cassaro
+4822,494,LOTE 98,,Seguridad Patrimonial,Playa Pto. N° 7,POLVO,ABC,5 Kg,7/2021,7/2023,,,,586,657155,2018,Cassaro,En recarga,4822,#N/A,#N/A,Cassaro
+6772,495,LOTE 98,,Seguridad Patrimonial,Playa Pto. N° 7,POLVO,ABC,5 Kg,7/2021,7/2023,,,,587,657404,2018,Cassaro,En recarga,6772,#N/A,#N/A,Cassaro
+865,496,LOTE 98,,Seguridad Patrimonial,Playa Pto. N° 7,POLVO,ABC,5 Kg,7/2021,7/2023,,,,588,669367,2018,Cassaro,En recarga,865,#N/A,#N/A,Cassaro
+,497,LOTE 98,,Instalaciones Generales,Depositos de GLP,POLVO,ABC,10 Kg,10/2020,10/2024,,,,1051,239667,2008,Cassaro,En planta,,#N/A,#N/A,Cassaro
+240367,498,LOTE 98,,Instalaciones Generales,Depositos de GLP,POLVO,ABC,10 Kg,10/2023,10/2023,,,,1052,239917,2008,Cassaro,En recarga,240367,#N/A,#N/A,Cassaro
+624811,499,LOTE 98,,Instalaciones Generales,Depositos de GLP,POLVO,ABC,10 Kg,10/2023,10/2023,,,,1053,239947,2008,Cassaro,En recarga,624811,#N/A,#N/A,Cassaro
+,500,LOTE 98,,Instalaciones Generales,Playa Elta alero Norte Montaje,POLVO,ABC,10 Kg,10/2020,10/2023,,,,1054,240300,2008,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,501,LOTE 98,,Instalaciones Generales,Playa Elta alero Norte Montaje,POLVO,ABC,10 Kg,10/2020,10/2023,,,,1055,240308,2008,Cassaro,En planta,,#N/A,#N/A,Cassaro
+676735,502,LOTE 98,,Instalaciones Generales,Playa Elta alero Norte Montaje,POLVO,ABC,10 Kg,10/2020,10/2023,,,,1056,240322,2008,Cassaro,En recarga,676735,#N/A,#N/A,Cassaro
+,503,LOTE 98,,EHS,Central Hidrica Sur,CO2,BC,5 Kg,7/2021,7/2025,,,,1039,105972,1996,Yukon,En planta,,#N/A,#N/A,Cassaro
+1446,504,LOTE 98,,Instalaciones Generales,Sala de bombas de Hidrica Sur reserva,CO2,BC,5 Kg,11/2020,11/2024,,,,1040,1803,2011,Horizonte,En recarga,1446,#N/A,#N/A,Cassaro
+,505,LOTE 98,,Instalaciones Generales,Sala de combustible hidrica sur,POLVO,ABC,5 Kg,9/2020,9/2023,,,,1047,760473,2018,Cassaro,En planta,,#N/A,#N/A,Cassaro
+,506,LOTE 42,,CARGO,Magazzino - Alero este porton n° 1 - 2,AFFF,AB,25 Lts,7/2021,7/2022,,,,591,52109,2018,Melisan,En planta,,#N/A,#N/A,
+,507,LOTE 42,,CARGO,Magazzino - Alero este porton n° 3 - 4,AFFF,AB,25 Lts,7/2021,7/2022,,,,592,52110,2018,Melisan,En planta,,#N/A,#N/A,
+,508,LOTE 42,,CARGO,Magazzino - Porton n° 5,POLVO,ABC,10 Kg,7/2021,7/2025,,,,593,139273,2015,Melisan,En planta,,#N/A,#N/A,
+,509,LOTE 42,,CARGO,Magazzino - Porton n° 9,POLVO,ABC,10 Kg,10/2020,10/2021,,,,594,2034,2010,Horizonte,En planta,,#N/A,#N/A,
+,510,LOTE 42,,CARGO,Magazzino - Porton n° 10 - 11,POLVO,ABC,5 Kg,7/2020,7/2023,,,,595,148667,2015,Horizonte,En planta,,#N/A,#N/A,
+,511,LOTE 42,,CARGO,Magazzino - Porton n° 12,POLVO,ABC,5 Kg,7/2021,7/2025,,,,596,148777,2015,Horizonte,En planta,,#N/A,#N/A,
+,512,LOTE 42,,CARGO,Magazzino - Porton n° 13,POLVO,ABC,10 Kg,7/2021,7/2025,,,,597,52088,2015,Horizonte,En planta,,#N/A,#N/A,
+,513,LOTE 42,,CARGO,Magazzino Porton n° 15,POLVO,ABC,5 Kg,5/2021,5/2025,,,,598,148772,2015,Horizonte,En planta,,#N/A,#N/A,
+,514,LOTE 42,,CARGO,Magazzino - Alero Oeste,AFFF,AB,25 Lts,7/2021,7/2022,,,,599,52180,2018,Melisan,En planta,,#N/A,#N/A,
+,515,LOTE 42,,CARGO,Magazzino - Alero Oeste,AFFF,AB,25 Lts,7/2021,7/2022,,,,600,52179,2018,Melisan,En planta,,#N/A,#N/A,
+,516,LOTE 42,,CARGO,Mnagazzino - Oficina Central,POLVO,ABC,5 Kg,7/2021,7/2025,,,,601,148797,2015,Horizonte,En planta,,#N/A,#N/A,
+,517,LOTE 42,,CARGO,Magazzino - EKA 1 - Sprinkler's,POLVO,ABC,10 Kg,7/2021,7/2025,,,,602,152262,2015,Horizonte,En planta,,#N/A,#N/A,
+,518,LOTE 42,,CARGO,Magazzino - Sub Estacion,CO2,BC,10 Kg,12/2020,12/2023,,,,603,859795,2018,Drago,En planta,,#N/A,#N/A,
+,519,LOTE 42,,CARGO,Magazzino - Sub Estacion,CO2,BC,10 Kg,12/2020,12/2023,,,,604,858753,2018,Drago,En planta,,#N/A,#N/A,
+,520,LOTE 42,,CARGO,Magazzino - 1° tramo estante - E,POLVO,ABC,2.5 Kg,7/2021,7/2025,,,,605,101374,2015,Horizonte,En planta,,#N/A,#N/A,
+,521,LOTE 42,,CARGO,Magazzino - 1° tramo estante - FG,POLVO,ABC,10 Kg,7/2021,7/2025,,,,606,140164,2015,Horizonte,En planta,,#N/A,#N/A,
+400,522,LOTE 42,,CARGO,Magazzino - 1° tramo estante - HI,POLVO,ABC,10 Kg,7/2021,7/2025,,,,607,139369,2015,Horizonte,En recarga,400,#N/A,#N/A,
+,523,LOTE 42,,CARGO,Magazzino - 1° tramo estante -A,POLVO,ABC,2.5 Kg,7/2021,7/2025,,,,608,152326,2015,Horizonte,En planta,,#N/A,#N/A,
+,524,LOTE 42,,CARGO,Magazzino - 1° tramo estante - NO,POLVO,ABC,10 Kg,7/2021,7/2025,,,,614,152326,2015,Horizonte,En planta,,#N/A,#N/A,
+,525,LOTE 42,,CARGO,Magazzino - 1° tramo estante - PQ,POLVO,ABC,10 Kg,7/2021,7/2025,,,,609,50069,2015,Horizonte,En planta,,#N/A,#N/A,
+,526,LOTE 42,,CARGO,Magazzino - 1° tramo estante - U,POLVO,ABC,10 Kg,7/2021,7/2025,,,,610,152271,2015,Horizonte,En planta,,#N/A,#N/A,
+,527,LOTE 42,,CARGO,Magazzino - 1° tramo estante - TS,POLVO,ABC,5 Kg,7/2021,7/2025,,,,611,148778,2015,Horizonte,En planta,,#N/A,#N/A,
+,528,LOTE 42,,CARGO,Magazzino - 1° tramo estante - LK,POLVO,ABC,2.5 Kg,7/2021,7/2025,,,,612,101319,2015,Horizonte,En planta,,#N/A,#N/A,
+,529,LOTE 42,,CARGO,Magazzino - 1° tramo estante - GF,POLVO,ABC,10 Kg,7/2021,7/2025,,,,613,152307,2015,Horizonte,En planta,,#N/A,#N/A,
+,530,LOTE 42,,CARGO,Magazzino - 1° tramo estante - A,POLVO,ABC,2.5 Kg,3/2021,3/2021,,,,608,101142,2015,Horizonte,En planta,,#N/A,#N/A,
+,531,LOTE 42,,CARGO,Magazzino - 2° tramo estante - HI,POLVO,ABC,10 Kg,7/2021,7/2025,,,,615,152306,2015,Horizonte,En planta,,#N/A,#N/A,
+,532,LOTE 42,,CARGO,Magazzino - 2° tramo estante - ST,POLVO,ABC,10 Kg,7/2021,7/2025,,,,616,152286,2015,Horizonte,En planta,,#N/A,#N/A,
+,533,LOTE 42,,CARGO,Magazzino - 2° tramo estante - Y,POLVO,ABC,5 Kg,7/2021,7/2025,,,,617,2080,2011,Horizonte,En planta,,#N/A,#N/A,
+,534,LOTE 42,,CARGO,Magazzino - 2° tramo estante - W,POLVO,ABC,2.5 Kg,7/2021,7/2025,,,,618,100950,2015,Horizonte,En planta,,#N/A,#N/A,
+,535,LOTE 42,,CARGO,Magazzino - 2° tramo estante - QP,POLVO,ABC,5 Kg,7/2021,7/2025,,,,619,148455,2015,Horizonte,En planta,,#N/A,#N/A,
+,536,LOTE 42,,CARGO,Magazzino - 2° tramo estante - GF,POLVO,ABC,5 Kg,7/2021,7/2025,,,,620,148499,2015,Horizonte,En planta,,#N/A,#N/A,
+140139,537,LOTE 42,,CARGO,Magazzino - 3° tramo estante - HI,POLVO,ABC,10 Kg,3/2021,3/2025,,,,622,139506,2018,Horizonte,En recarga,140139,#N/A,#N/A,
+,538,LOTE 42,,CARGO,Magazzino - 3° tramo estante - PQ,POLVO,ABC,10 Kg,10/2020,10/2024,,,,623,140139,2010,Horizonte,En planta,,#N/A,#N/A,
+,539,LOTE 42,,CARGO,Magazzino - 3° tramo estante - UV,POLVO,ABC,5 Kg,7/2021,7/2025,,,,624,148615,2015,Horizonte,En planta,,#N/A,#N/A,
+624916,540,LOTE 42,,CARGO,Magazzino - 3° tramo estante - GF,POLVO,ABC,5 Kg,7/2021,7/2025,,,,625,648671,2015,Horizonte,En recarga,624916,#N/A,#N/A,
+4920,541,LOTE 42,,CARGO,Magazzino - 3° tramo estante - LK,POLVO,ABC,10 Kg,10/2020,10/2023,,,,626,152257,2015,Horizonte,En recarga,4920,#N/A,#N/A,
+453,542,LOTE 42,,CARGO,Magazzino - 3° tramo estante - QP,POLVO,ABC,2.5 Kg,10/2020,10/2020,,,,627,106381,2015,Horizonte,En recarga,453,#N/A,#N/A,
+,543,LOTE 42,,CARGO,Magazzino - 3° tramo estante - XW,POLVO,ABC,5 Kg,10/2020,10/2023,,,,628,760020,2015,Horizonte,En planta,,#N/A,#N/A,
+,544,LOTE 42,,CARGO,Pulmón de madera,POLVO,ABC,5 Kg,6/2021,6/2023,,,,641,673685,2018,Horizonte,En planta,,#N/A,#N/A,
+,545,LOTE 42,,CARGO,Pulmón de madera,POLVO,ABC,5 Kg,6/2021,6/2023,,,,642,673761,2018,Horizonte,En planta,,#N/A,#N/A,
+,546,LOTE 42,,CARGO,Pulmón de madera,POLVO,ABC,5 Kg,6/2021,6/2023,,,,643,673652,2018,Horizonte,En planta,,#N/A,#N/A,
+,547,LOTE 42,,CARGO,Pulmón de madera,POLVO,ABC,5 Kg,6/2021,6/2023,,,,644,673997,2018,Cassaro,En planta,,#N/A,#N/A,
+,548,LOTE 42,,CARGO,Prensadora,AFFF,AB,10 Lts,12/2020,12/2020,,,,645,468122,2018,Cassaro,En planta,,#N/A,#N/A,
+,549,LOTE 42,,Seguridad. Patrimonnial,Gdia. Pto n° 2 interno,CO2,BC,3.5 Kg,3/2021,3/2025,,,,652,2445,2009,Horizonte,En planta,,#N/A,#N/A,
+,550,LOTE 42,,Seguridad. Patrimonnial,Gdia. Pto. n° 2 externo,POLVO,ABC,10 Kg,7/2020,7/2023,,,,653,625296,2018,Cassaro,En planta,,#N/A,#N/A,
+,551,LOTE 42,,Seguridad. Patrimonnial,Ufo Pto. n° 2 interno,CO2,BC,3.5 Kg,3/2021,3/2025,,,,654,2572,2009,Horizonte,En planta,,#N/A,#N/A,
+,552,LOTE 42,,Aduana,Aduana Pasllo,CO2,BC,3.5 Kg,3/2021,3/2025,,,,655,2292,2009,Horizonte,En planta,,#N/A,#N/A,
+,553,LOTE 42,,Aduana,Aduana - Pasillo,POLVO,ABC,5 Kg,7/2021,7/2023,,,,656,647539,2018,Cassaro,En planta,,#N/A,#N/A,
+,554,LOTE 42,,Aduana,Aduana - Galpon,AFFF,AB,10 Lts,12/2020,12/2020,,,,657,468269,2018,Melisan,En planta,,#N/A,#N/A,
+,555,LOTE 42,,Aduana,Aduana - Galpon,POLVO,ABC,5 Kg,7/2021,6/2023,,,,658,647321,2018,Cassaro,En planta,,#N/A,#N/A,
+,556,LOTE 42,,Aduana,Aduana - Galpon,POLVO,ABC,5 Kg,7/2021,6/2023,,,,659,647206,2018,Cassaro,En planta,,#N/A,#N/A,
+,557,LOTE 42,,Aduana,Aduana - Galpon,AFFF,AB,10 Lts,12/2020,12/2020,,,,660,468161,2018,Melisan,En planta,,#N/A,#N/A,
+,558,LOTE 42,,Aduana,Playa Fiscal - Alero Galpon,POLVO,ABC,10 Kg,12/2020,12/2023,,,,664,221826,2017,Cassaro,En planta,,#N/A,#N/A,
+,559,LOTE 42,,Aduana,Playa Fiscal Poste n° 1,POLVO,ABC,10 Kg,12/2020,12/2023,,,,665,987246,2017,Cassaro,En planta,,#N/A,#N/A,
+,560,LOTE 42,,Aduana,Playa Fiscal Poste n° 2,POLVO,ABC,10 Kg,12/2020,12/2023,,,,666,221792,2017,Cassaro,En planta,,#N/A,#N/A,
+,561,LOTE 42,,Aduana,Playa Fiscal Poste n° 3,POLVO,ABC,10 Kg,12/2020,12/2023,,,,667,221828,2017,Cassaro,En planta,,#N/A,#N/A,
+,562,LOTE 42,,Aduana,Playa Fiscal Poste n° 4,POLVO,ABC,10 Kg,12/2020,12/2023,,,,668,221841,2017,Cassaro,En planta,,#N/A,#N/A,
+,563,LOTE 42,,Aduana,Playa Fiscal Poste n° 5,POLVO,ABC,10 Kg,12/2020,12/2023,,,,669,221799,2017,Cassaro,En planta,,#N/A,#N/A,
+,564,LOTE 42,,Aduana,Playa Fiscal Poste n° 6,POLVO,ABC,10 Kg,12/2020,12/2023,,,,670,151918,2017,Cassaro,En planta,,#N/A,#N/A,
+,565,LOTE 42,,Aduana,Playa Fiscal Poste n° 7,POLVO,ABC,10 Kg,12/2020,12/2023,,,,671,221809,2017,Cassaro,En planta,,#N/A,#N/A,
+,566,LOTE 42,,Aduana,Playa Fiscal Poste n° 8,POLVO,ABC,10 Kg,12/2020,12/2023,,,,672,221771,2017,Cassaro,En planta,,#N/A,#N/A,
+,567,LOTE 42,,Aduana,Playa Fiscal Poste n° 9,POLVO,ABC,10 Kg,12/2020,12/2023,,,,673,186607,2017,Cassaro,En planta,,#N/A,#N/A,
+,568,LOTE 42,,Aduana,Playa Fiscal Poste n° 10,POLVO,ABC,10 Kg,12/2020,12/2023,,,,674,221795,2017,Cassaro,En planta,,#N/A,#N/A,
+,569,LOTE 42,,Aduana,Playa Fiscal Poste n° 11,POLVO,ABC,10 Kg,12/2020,12/2023,,,,675,221820,2017,Cassaro,En planta,,#N/A,#N/A,
+,570,LOTE 42,,Aduana,Playa Fiscal Poste n° 12,POLVO,ABC,10 Kg,12/2020,12/2023,,,,676,221783,2017,Cassaro,En planta,,#N/A,#N/A,
+,571,LOTE 42,,Aduana,Playa Fiscal Poste n° 13,POLVO,ABC,10 Kg,12/2020,12/2023,,,,677,221853,2017,Cassaro,En planta,,#N/A,#N/A,
+,572,LOTE 42,,Aduana,Playa Fiscal Poste n° 14,POLVO,ABC,10 Kg,12/2020,12/2023,,,,678,221817,2017,Cassaro,En planta,,#N/A,#N/A,
+,573,LOTE 42,,Aduana,Playa Fiscal Poste n° 15,POLVO,ABC,10 Kg,12/2020,12/2023,,,,679,221779,2017,Cassaro,En planta,,#N/A,#N/A,
+,574,LOTE 42,,Aduana,Playa Fiscal Poste n° 16,POLVO,ABC,10 Kg,12/2020,12/2023,,,,680,221821,2017,Cassaro,En planta,,#N/A,#N/A,
+,575,LOTE 42,,Aduana,Playa Fiscal Poste n° 17,POLVO,ABC,10 Kg,12/2020,12/2023,,,,681,221875,2017,Cassaro,En planta,,#N/A,#N/A,
+,576,LOTE 42,,Aduana,Playa Fiscal Poste n° 18,POLVO,ABC,10 Kg,12/2020,12/2023,,,,682,221819,2017,Cassaro,En planta,,#N/A,#N/A,
+,577,LOTE 42,,Aduana,Playa Fiscal Poste n° 19,POLVO,ABC,10 Kg,12/2020,12/2023,,,,683,221403,2017,Cassaro,En planta,,#N/A,#N/A,
+,578,LOTE 42,,Aduana,Playa Fiscal Poste n° 20,POLVO,ABC,10 Kg,12/2020,12/2023,,,,684,221824,2017,Cassaro,En planta,,#N/A,#N/A,
+,579,LOTE 42,,Aduana,Playa Fiscal Poste n° 21,POLVO,ABC,10 Kg,12/2020,12/2023,,,,685,25894,2017,Cassaro,En planta,,#N/A,#N/A,
+,580,LOTE 42,,Aduana,Playa Fiscal Poste n° 22,POLVO,ABC,10 Kg,5/2021,5/2022,,,,686,221762,2017,Cassaro,En planta,,#N/A,#N/A,
+,581,LOTE 42,,Aduana,Playa Fiscal Poste n° 23,POLVO,ABC,10 Kg,12/2020,12/2023,,,,687,186627,2017,Cassaro,En planta,,#N/A,#N/A,
+,582,LOTE 42,,Aduana,Playa Fiscal Poste n° 24,POLVO,ABC,10 Kg,12/2020,12/2023,,,,688,221787,2017,Cassaro,En planta,,#N/A,#N/A,
+,583,LOTE 42,,Aduana,Playa Fiscal Poste n° 25,POLVO,ABC,10 Kg,12/2020,12/2023,,,,689,221798,2017,Cassaro,En planta,,#N/A,#N/A,
+,584,LOTE 42,,Aduana,Playa Fiscal Poste n° 26,POLVO,ABC,10 Kg,12/2020,12/2023,,,,690,221840,2017,Cassaro,En planta,,#N/A,#N/A,
+,585,LOTE 42,,Aduana,Playa Fiscal Poste n° 27,POLVO,ABC,10 Kg,12/2020,12/2023,,,,691,186795,2017,Cassaro,En planta,,#N/A,#N/A,
+,586,LOTE 42,,Aduana,Playa Fiscal Poste n° 28,POLVO,ABC,10 Kg,12/2020,12/2023,,,,692,221838,2017,Cassaro,En planta,,#N/A,#N/A,
+,587,LOTE 42,,Aduana,Playa Fiscal Poste n° 29,POLVO,ABC,10 Kg,12/2020,12/2023,,,,693,186562,2017,Cassaro,En planta,,#N/A,#N/A,
+,588,LOTE 42,,Aduana,Playa Fiscal Poste n° 30,POLVO,ABC,10 Kg,12/2020,12/2023,,,,694,186575,2017,Cassaro,En planta,,#N/A,#N/A,
+,589,LOTE 42,,Aduana,Playa Fiscal Poste n° 31,POLVO,ABC,10 Kg,12/2020,12/2023,,,,695,221791,2017,Cassaro,En planta,,#N/A,#N/A,
+,590,LOTE 42,,Aduana,Playa Fiscal Poste n° 32,POLVO,ABC,10 Kg,12/2020,12/2023,,,,696,221712,2017,Cassaro,En planta,,#N/A,#N/A,
+,591,LOTE 42,,Aduana,Playa Fiscal Poste n° 33,POLVO,ABC,10 Kg,12/2020,12/2023,,,,697,221862,2017,Cassaro,En planta,,#N/A,#N/A,
+,592,LOTE 42,,Aduana,Playa Fiscal Poste n° 34,POLVO,ABC,10 Kg,12/2020,12/2023,,,,698,221781,2017,Cassaro,En planta,,#N/A,#N/A,
+,593,LOTE 42,,Aduana,Playa Fiscal Poste n° 35,POLVO,ABC,10 Kg,12/2020,12/2023,,,,699,221776,2017,Cassaro,En planta,,#N/A,#N/A,
+,594,LOTE 42,,Aduana,Playa Fiscal Poste n° 36,POLVO,ABC,10 Kg,12/2020,12/2023,,,,700,221701,2011,Horizonte,En planta,,#N/A,#N/A,
+,595,LOTE 42,,Secco,Sala de Baterias - Porton,POLVO,ABC,5 Kg,7/2021,6/2024,,,,704,1190200,2018,Yukon,En planta,,#N/A,#N/A,
+,596,LOTE 42,,Secco,Sala de Baterias - Porton,POLVO,ABC,5 Kg,7/2021,6/2024,,,,705,1190198,2018,Cassaro,En planta,,#N/A,#N/A,
+,597,LOTE 42,,Secco,Sala de Baterias - Interno,POLVO,ABC,5 Kg,3/2021,9/2023,,,,706,1323476,2018,Cassaro,En planta,,#N/A,#N/A,
+,598,LOTE 42,,Secco,Sala de Baterias - Interno,POLVO,ABC,5 Kg,3/2021,9/2023,,,,707,1190179,2018,Cassaro,En planta,,#N/A,#N/A,
+,599,LOTE 42,,Secco,Sala de Baterias - Interno,POLVO,ABC,5 Kg,3/2021,9/2023,,,,708,1189958,2018,Cassaro,En planta,,#N/A,#N/A,
+,600,LOTE 42,,Secco,Sala de Baterias - Alero,POLVO,ABC,5 Kg,7/2021,9/2020,,,,709,1307305,2018,Cassaro,En planta,,#N/A,#N/A,
+,601,LOTE 42,,Secco,Sala de Baterias - Alero,POLVO,ABC,5 Kg,7/2021,6/2024,,,,710,1184371,2018,Cassaro,En planta,,#N/A,#N/A,
+,602,LOTE 42,,Secco,Sala de Baterias - Alero,POLVO,ABC,5 Kg,7/2021,6/2024,,,,711,1190162,2018,Yukon,En planta,,#N/A,#N/A,
+,603,LOTE 42,,Secco,Sala de Baterias - Alero,POLVO,ABC,5 Kg,7/2021,9/2020,,,,712,1307319,2018,Cassaro,En planta,,#N/A,#N/A,
+,604,LOTE 42,,Secco,Sala de Baterias - Alero,POLVO,ABC,5 Kg,7/2021,6/2020,,,,713,1184102,2018,Yukon,En planta,,#N/A,#N/A,
+,605,LOTE 42,,Secco,Sala de tablero externo,POLVO,ABC,5 Kg,5/2021,5/2023,,,,714,669456,2018,Cassaro,En planta,,#N/A,#N/A,
+51956,606,LOTE 95,Paez W.,CKD -COZZUOL,Alero,AFFF,AB,25 Lts,,,OK,OK,OK,776,51904,2018,Melisam,En recarga,51956,K,5/2021,
+52101,607,LOTE 95,Paez W.,CKD -COZZUOL,Alero,AFFF,AB,25 Lts,,,OK,OK,OK,777,51975,2018,Melisam,En recarga,52101,K,5/2021,
+,608,LOTE 95,Paez W.,CKD -COZZUOL,Oficina FCA,CO2,BC,5 Kg,3/2021,3/2021,OK,OK,OK,778,1412,2011,Horizonte,En planta,,#N/A,#N/A,
+,609,LOTE 95,Paez W.,CKD -COZZUOL,Galpon sur - pared norte,POLVO,ABC,10 Kg,7/2021,7/2023,OK,OK,OK,779,2111,2010,Horizonte,En planta,,#N/A,#N/A,
+,610,LOTE 95,Paez W.,CKD -COZZUOL,Galpon sur - pared norte,POLVO,ABC,10 Kg,7/2021,7/2023,OK,OK,OK,780,625295,2018,Melisam,En planta,,#N/A,#N/A,
+4046,611,LOTE 95,Paez W.,CKD -COZZUOL,Pared Sur Oficina,CO2,BC,5 Kg,,,OK,OK,OK,781,468441,2018,Drago,En recarga,4046,E-14,1/12/2020,
+,612,LOTE 95,Paez W.,CKD -COZZUOL,Pared sur,POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,782,647331,2018,Melisam,En planta,,#N/A,#N/A,
+,613,LOTE 95,Paez W.,CKD -COZZUOL,Pared sur,POLVO,ABC,5 Kg,3/2021,3/2023,OK,OK,OK,783,647907,2018,Melisam,En planta,,#N/A,#N/A,
+,614,LOTE 95,Paez W.,CKD -COZZUOL,Pared sur almacen,POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,785,647657,2018,Melisam,En planta,,#N/A,#N/A,
+468078,615,LOTE 95,Paez W.,CKD -COZZUOL,Pared sur,AFFF,AB,10 Lts,,,OK,OK,OK,786,468128,2018,Melisam,En recarga,468078,#N/A,#N/A,
+51944,616,LOTE 95,Paez W.,CKD -COZZUOL,Oficina Dada,POLVO,ABC,25 Kg,,,OK,OK,OK,787,51939,2018,Melisam,En recarga,51944,L,5/2021,
+,617,LOTE 95,Paez W.,CKD -COZZUOL,Galpon sur - pared norte,POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,788,648022,2018,Melisam,En planta,,#N/A,#N/A,
+51903,618,LOTE 95,Paez W.,CKD -COZZUOL,Galpon sur - pared norte,POLVO,ABC,25 Kg,,,OK,OK,OK,789,51847,2018,Melisam,En recarga,51903,L,5/2021,
+300026,619,LOTE 95,Paez W.,CKD -COZZUOL,Galpon norte - pared sur,POLVO,ABC,10 Kg,,,OK,OK,OK,792,664401,2010,Melisam,En recarga,300026,,1/12/2020,
+1734,620,LOTE 95,Paez W.,CKD -COZZUOL,Galpon norte -  porton este,AFFF,AB,10 Lts,,,OK,OK,OK,793,468802,2018,Melisam,En recarga,1734,,1/10/2020,
+300218,621,LOTE 95,Paez W.,CKD -COZZUOL,Galpon norte - columna,AFFF,AB,10 Lts,,,OK,OK,OK,794,468433,2018,Melisam,En recarga,300218,#N/A,#N/A,
+51945,622,LOTE 95,Paez W.,CKD -COZZUOL,Porton norte,POLVO,ABC,25 Kg,,,OK,OK,OK,795,51965,2018,Melisam,En recarga,51945,L,5/2021,
+,623,LOTE 95,Paez W.,CKD -COZZUOL,Oficina,CO2,BC,5 Kg,12/2020,5/2023,OK,OK,OK,629,857514,2018,Drago,En planta,,#N/A,#N/A,
+676685,624,LOTE 95,Paez W.,Centro de Construccion,Columna,POLVO,ABC,10 Kg,,,OK,OK,OK,801,657970,2018,Melisam,En recarga,676685,B-03,1/12/2020,
+,625,LOTE 95,Paez W.,Centro de Construccion,Deposito,CO2,BC,5 Kg,3/2021,3/2021,OK,OK,OK,802,1042,2011,Horizonte,En planta,,#N/A,#N/A,
+,626,LOTE 95,Paez W.,Centro de Construccion,Focalizado,CO2,BC,5 Kg,3/2021,3/2021,OK,OK,OK,803,1186,2011,Horizonte,En planta,,#N/A,#N/A,
+,627,LOTE 95,Paez W.,Centro de Construccion,Pared,CO2,BC,3.5 Kg,3/2021,3/2021,OK,OK,OK,804,2234,2009,Horizonte,En planta,,#N/A,#N/A,
+,628,LOTE 95,Paez W.,Centro de Construccion,Porton,CO2,BC,5 Kg,3/2021,3/2021,OK,OK,OK,805,1614,2011,Horizonte,En planta,,#N/A,#N/A,
+300482,629,LOTE 95,Paez W.,Centro de Construccion,Alero externo,AFFF,AB,10 Lts,,,OK,OK,OK,806,468744,2018,Melisam,En recarga,300482,,1/12/2020,
+,630,LOTE 95,Paez W.,Service Generales,Interno Pared,POLVO,ABC,5 Kg,7/2021,7/2021,OK,OK,OK,811,647641,2018,Melisam,En planta,,#N/A,#N/A,
+,631,LOTE 95,Paez W.,Service Generales,Interno Columna,POLVO,ABC,10 Kg,7/2021,7/2021,OK,OK,OK,812,657660,2018,Melisam,En planta,,#N/A,#N/A,
+656164,632,LOTE 95,Paez W.,Service Generales,Externo,POLVO,ABC,10 Kg,,,OK,OK,OK,813,625201,2018,Melisam,En recarga,656164,,1/10/2020,
+,633,LOTE 95,Paez W.,Almacén de combustible,Interno,CO2,BC,5 Kg,5/2021,3/2021,OK,OK,OK,816,1514,2011,Horizonte,En planta,,#N/A,#N/A,
+,634,LOTE 95,Paez W.,Almacén de combustible,Interno pared,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,818,300194,2018,Melisam,En planta,,#N/A,#N/A,
+300477,635,LOTE 95,Paez W.,Almacén de combustible,Externo,AFFF,AB,10 Lts,,,OK,OK,OK,819,468080,2018,Melisam,En recarga,300477,,1/12/2020,
+300330,636,LOTE 95,Paez W.,Almacén de combustible,Externo,AFFF,AB,10 Lts,,,OK,OK,OK,820,468005,2018,Melisam,En recarga,300330,,1/12/2020,
+,637,LOTE 95,Paez W.,Almacén de combustible,Deposito,AFFF,AB,10 Lts,12/2020,12/2023,OK,OK,OK,821,300099,2018,Melisam,En planta,,#N/A,#N/A,
+857436,638,LOTE 95,Paez W.,Sala de Compresor,Porton,CO2,BC,5 Kg,,,OK,OK,OK,872,1645,2011,Horizonte,En recarga,857436,,1/11/2020,
+,639,LOTE 95,Paez W.,Sala de Compresor,Porton,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,873,858777,2018,Drago,En planta,,#N/A,#N/A,
+,640,LOTE 95,Paez W.,Sala de Compresor,Pared,CO2,BC,10 Kg,12/2020,12/2023,OK,OK,OK,874,858287,2018,Drago,En planta,,#N/A,#N/A,
+,641,LOTE 95,Paez W.,Sala de Bombas de enfriamiento de Cajas,Interno,CO2,BC,3.5 Kg,3/2021,03/2021,OK,OK,OK,823,2169,2009,Horizonte,En planta,,#N/A,#N/A,
+,642,LOTE 95,Paez W.,Sala de Bombas de enfriamiento de Cajas,Externo,POLVO,ABC,5 Kg,7/2021,7/2021,OK,OK,OK,824,656211,2018,Melisam,En planta,,#N/A,#N/A,
+,643,LOTE 95,Paez W.,Sala de Bombas de enfriamiento de Cajas,Externo,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,825,468410,2018,Melisam,En planta,,#N/A,#N/A,
+,644,LOTE 95,Paez W.,Instituto.Formación.Profesional,Planta baja,CO2,BC,3.5 Kg,3/2021,3/2023,OK,OK,OK,831,2557,2009,Horizonte,En planta,,#N/A,#N/A,
+,645,LOTE 95,Paez W.,Instituto.Formación.Profesional,Planta baja,CO2,BC,10 Kg,12/2020,12/2020,OK,OK,OK,832,858761,2018,Drago,En planta,,#N/A,#N/A,
+,646,LOTE 95,Paez W.,Instituto.Formación.Profesional,Planta baja,POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,833,647678,2018,Melisam,En planta,,#N/A,#N/A,
+,647,LOTE 95,Paez W.,Instituto.Formación.Profesional,Planta baja,POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,834,648003,2018,Melisam,En planta,,#N/A,#N/A,
+,648,LOTE 95,Paez W.,Instituto.Formación.Profesional,Planta baja escalera,POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,835,647887,2018,Melisam,En planta,,#N/A,#N/A,
+468203,649,LOTE 95,Paez W.,Instituto.Formación.Profesional,Planta baja,AFFF,AB,10 Lts,,,OK,OK,OK,836,468724,2018,Melisam,En recarga,468203,,1/12/2020,
+300382,650,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub suelo,AFFF,AB,10 Lts,,,OK,OK,OK,837,468169,2018,Melisam,En recarga,300382,,1/12/2020,
+657333,651,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub suelo,CO2,BC,5 Kg,,,OK,OK,OK,838,1324,2011,Horizonte,En recarga,657333,,9/2020,
+,652,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub suelo,CO2,BC,5 Kg,3/2021,3/2021,OK,OK,OK,839,1247,2011,Horizonte,En planta,,#N/A,#N/A,
+132238,653,LOTE 95,Paez W.,Instituto.Formación.Profesional,1° Piso,POLVO,ABC,5 Kg,,,OK,OK,OK,840,657065,2018,Melisam,En recarga,132238,,1/6/2021,
+300323,654,LOTE 95,Paez W.,Instituto.Formación.Profesional,1° Piso,AFFF,AB,10 Lts,,,OK,OK,OK,841,468832,2018,Melisam,En recarga,300323,,1/12/2020,
+468222,655,LOTE 95,Paez W.,Instituto.Formación.Profesional,1° Piso,AFFF,AB,10 Lts,,,OK,OK,OK,842,468875,2018,Melisam,En recarga,468222,,1/12/2020,
+,656,LOTE 95,Paez W.,Instituto.Formación.Profesional,1° Piso,CO2,BC,10 Kg,12/2020,12/2023,OK,OK,OK,843,858783,2018,Drago,En planta,,#N/A,#N/A,
+,657,LOTE 95,Paez W.,Instituto.Formación.Profesional,2° Piso,POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,844,647931,2018,Melisam,En planta,,#N/A,#N/A,
+300179,658,LOTE 95,Paez W.,Instituto.Formación.Profesional,2° Piso,AFFF,AB,10 Lts,,,OK,OK,OK,845,688394,2018,Melisam,En recarga,300179,,1/12/2020,
+468307,659,LOTE 95,Paez W.,Instituto.Formación.Profesional,2° Piso,AFFF,AB,10 Lts,,,OK,OK,OK,846,468440,2018,Melisam,En recarga,468307,,1/12/2020,
+,660,LOTE 95,Paez W.,Instituto.Formación.Profesional,2° Piso,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,847,859782,2018,Drago,En planta,,#N/A,#N/A,
+,661,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sala máquina ascensor,CO2,BC,3.5 Kg,11/2020,11/2023,,,,817,857004,2018,Drago,En planta,,#N/A,#N/A,
+62527,662,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub estacion Distribucion,POLVO,ABC,10 Kg,,,,,,848,646754,2012,Melisam,En recarga,62527,,1/12/2020,
+1648,663,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub estacion Distribucion,CO2,BC,10 Kg,,,,,,849,106668,1997,Yukon,En recarga,1648,E-16,12/2020,
+857464,664,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub estacion Distribucion,CO2,BC,5 Kg,,,,,,850,1191,2011,Horizonte,En recarga,857464,,1/11/2020,
+657994,665,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub estacion Compresores,CO2,BC,5 Kg,,,,,,851,4400,2010,Horizonte,En recarga,657994,,1/10/2020,
+859798,666,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub estacion Compresores,CO2,BC,10 Kg,,,,,,852,16673,1997,Yukon,En recarga,859798,J,11/2020,
+,667,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub estacion Compresores,CO2,BC,5 Kg,5/2021,5/2021,,,,853,1445,2011,Horizonte,En planta,,#N/A,#N/A,
+675853,668,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub estacion Compres ext.,POLVO,ABC,10 Kg,,,,,,854,625309,2018,Melisam,En recarga,675853,B-03,12/2020,
+676698,669,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sub estacion Compres ext.,POLVO,ABC,10 Kg,,,,,,855,625198,2018,Melisam,En recarga,676698,#N/A,#N/A,
+,670,LOTE 95,Paez W.,Instituto.Formación.Profesional,Sala bombas tanque externo,CO2,BC,5 Kg,3/2020,3/2021,,,,894,1366,2011,Horizonte,En planta,,#N/A,#N/A,
+6794,671,LOTE 95,Paez W.,Escuela Técnica,Interno pared,POLVO,ABC,5 Kg,,,,,,871,647992,2018,Melisam,En recarga,6794,C-06,1/6/2021,
+468770,672,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Porton,AFFF,AB,10 Lts,,,,,,856,468755,2018,Melisam,En recarga,468770,G-20,1/12/2020,
+2369,673,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Estante,POLVO,ABC,5 Kg,,,,,,857,469264,2018,Melisam,En recarga,2369,C-06,1/6/2021,
+,674,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Oficina PB,CO2,BC,5 Kg,3/2021,3/2021,,,,858,1415,2011,Horizonte,En planta,,#N/A,#N/A,
+,675,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Oficina PA,CO2,BC,5 Kg,3/2021,3/2021,,,,859,1548,2011,Horizonte,En planta,,#N/A,#N/A,
+468352,676,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Pasillo estante,AFFF,AB,10 Lts,,,,,,860,468605,2018,Melisam,En recarga,468352,G-20,1/12/2020,
+468292,677,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Pasillo estante,AFFF,AB,10 Lts,,,,,,861,468749,2018,Melisam,En recarga,468292,G-20,1/12/2020,
+468721,678,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Pasillo estante,AFFF,AB,10 Lts,,,,,,862,468834,2018,Melisam,En recarga,468721,G-20,1/12/2020,
+300210,679,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Pasillo estante,AFFF,AB,10 Lts,,,,,,863,468506,2018,Melisam,En recarga,300210,G-20,1/12/2020,
+468185,680,LOTE 95,Paez W.,ARCHIVO FIAT SERVICE,Pared fondo,AFFF,AB,10 Lts,,,,,,864,468398,2018,Melisam,En recarga,468185,G-20,1/12/2020,
+651500,681,LOTE 95,Paez W.,Surtidores,Surtidores,POLVO,ABC,70 Kg,,,,,,876,51511,2018,Melisam,En recarga,651500,,1/5/2021,
+651886,682,LOTE 95,Paez W.,Surtidores,Surtidores,POLVO,ABC,25 Kg,,,,,,877,52170,2018,Melisam,En recarga,651886,#N/A,#N/A,
+,683,LOTE 95,Paez W.,Surtidores,Surtidores,CO2,BC,5 Kg,3/2021,3/2021,,,,878,1360,2011,Horizonte,En planta,,#N/A,#N/A,
+,684,LOTE 95,Paez W.,Surtidores,Surtidores,POLVO,ABC,10 Kg,3/2021,3/2021,,,,879,1970,2010,Horizonte,En planta,,#N/A,#N/A,
+,685,LOTE 95,Paez W.,Surtidores,Oficina Surtidores,CO2,BC,3.5 Kg,5/2021,5/2021,,,,880,2209,2009,Horizonte,En planta,,#N/A,#N/A,
+,686,LOTE 95,Alvarez L.,Experimentacion,Interno porton,POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,886,647364,2018,Melisam,En planta,,#N/A,#N/A,
+,687,LOTE 95,Alvarez L.,Experimentacion,Oficina,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,887,657799,2018,Melisam,En planta,,#N/A,#N/A,
+676557,688,LOTE 95,Alvarez L.,Experimentacion,Taller,POLVO,ABC,10 Kg,,,OK,OK,OK,888,657394,2018,Melisam,En recarga,676557,B-04,12/2020,
+657962,689,LOTE 95,Alvarez L.,Experimentacion,Taller,POLVO,ABC,10 Kg,,,OK,OK,OK,889,676125,2018,Melisam,En recarga,657962,B-04,12/2020,
+,690,LOTE 95,Alvarez L.,Garantia,Pared frente a Oficina,CO2,BC,5 Kg,7/2021,7/2021,OK,OK,OK,891,1141,2011,Horizonte,En planta,,#N/A,#N/A,
+300030,691,LOTE 95,Alvarez L.,Garantia,Pared lado - Baño,AFFF,AB,10 Lts,,,OK,OK,OK,892,468303,2018,Melisam,En recarga,300030,G-21,07/2021,
+300271,692,LOTE 95,Alvarez L.,Garantia,Pared fondo,AFFF,AB,10 Lts,,,OK,OK,OK,893,468371,2018,Melisam,En recarga,300271,G-21,07/2021,
+,693,LOTE 95,Alvarez L.,Ex Galpon 18,Oficina,CO2,BC,3.5 Kg,5/2021,5/2025,OK,OK,OK,896,2584,2009,Horizonte,En planta,,#N/A,#N/A,
+,694,LOTE 95,Alvarez L.,Ex Galpon 18,Columna,POLVO,ABC,10 Kg,10/2020,10/2024,OK,OK,OK,897,4245,2010,Horizonte,En planta,,#N/A,#N/A,
+,695,LOTE 95,Alvarez L.,Ex Galpon 18,Columna,POLVO,ABC,10 Kg,10/2020,10/2024,OK,OK,OK,898,3953,2010,Horizonte,En planta,,#N/A,#N/A,
+,696,LOTE 95,Alvarez L.,Ex Galpon 18,Pulmon Dada - Enrejado,POLVO,ABC,10 Kg,10/2020,10/2024,OK,OK,OK,899,3614,2010,Cassaro,En planta,,#N/A,#N/A,
+,697,LOTE 95,Alvarez L.,Ex Galpon 18,Pulmon Dada - Columna,POLVO,ABC,10 Kg,5/2021,5/2025,OK,OK,OK,900,664113,2010,Melisam,En planta,,#N/A,#N/A,
+,698,LOTE 95,Alvarez L.,Ex Galpon 18,Pulmon Dada - Pared,POLVO,ABC,10 Kg,5/2021,5/2025,OK,OK,OK,901,664213,2010,Melisam,En planta,,#N/A,#N/A,
+,699,LOTE 95,Alvarez L.,Ex Galpon 18,Tavolo FCA - Oficina,POLVO,ABC,10 Kg,10/2020,10/2022,OK,OK,OK,902,2239,2012,Cassaro,En planta,,#N/A,#N/A,
+,700,LOTE 95,Alvarez L.,Ex Galpon 18,Tavolo FCA - Puerta,POLVO,ABC,10 Kg,5/2021,5/2025,OK,OK,OK,903,664191,2018,Cassaro,En planta,,#N/A,#N/A,
+,701,LOTE 95,Alvarez L.,Ex Galpon 18,Tavolo FCA - Columna,POLVO,ABC,10 Kg,10/2020,10/2022,OK,OK,OK,904,1704,2012,Cassaro,En planta,,#N/A,#N/A,
+,702,LOTE 95,Alvarez L.,Ex kaizen Cajas,Ex-Taller Kaizen Cajas,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,741,300294,2018,Melisam,En planta,,#N/A,#N/A,
+,703,LOTE 95,Alvarez L.,Ex kaizen Cajas,Ex-Taller Kaizen Cajas,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,742,300161,2018,Melisam,En planta,,#N/A,#N/A,
+,704,LOTE 95,Alvarez L.,Ex kaizen Cajas,Ex-Taller Kaizen Cajas,AFFF,AB,10 Lts,11/2020,11/2020,OK,OK,OK,743,468838,2018,Melisam,En planta,,#N/A,#N/A,
+,705,LOTE 95,Alvarez L.,Ex kaizen Cajas,Ex-Taller Kaizen Cajas,AFFF,AB,10 Lts,11/2020,11/2020,OK,OK,OK,744,300308,2018,Melisam,En planta,,#N/A,#N/A,
+300490,706,LOTE 95,Alvarez L.,Ex kaizen Cajas,Ex-Taller Kaizen Cajas,AFFF,AB,10 Lts,,,OK,OK,OK,745,468780,2018,Melisam,En recarga,300490,G-21,05/2021,
+,707,LOTE 95,Alvarez L.,Ex kaizen Cajas,Ex-Taller Kaizen Cajas,POLVO,ABC,5 Kg,5/2021,5/2023,OK,OK,OK,750,669319,2018,Melisam,En planta,,#N/A,#N/A,
+676676,708,LOTE 95,Alvarez L.,Ex kaizen Cajas,Repar. de Motores,POLVO,ABC,10 Kg,,,OK,OK,OK,748,657865,2018,Melisam,En recarga,676676,B-04,12/2020,
+,709,LOTE 95,Alvarez L.,Deposito de Fluidos Petrona,Depósito de Aceite,AFFF,AB,100 Lts,5/2021,5/2022,OK,OK,OK,755,51301,2018,Melisam,En planta,,#N/A,#N/A,
+,710,LOTE 95,Alvarez L.,Deposito de Fluidos Petrona,Depósito de Aceite,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,753,300030,2018,Melisam,En planta,,#N/A,#N/A,
+,711,LOTE 95,Alvarez L.,Deposito de Fluidos Petrona,Depósito de Aceite,POLVO,ABC,10 Kg,12/2020,12/2023,OK,OK,OK,754,625141,2018,Melisam,En planta,,#N/A,#N/A,
+647625,712,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,5 Kg,,,OK,OK,OK,1193,647957,2018,Melisam,En recarga,647625,,10/2020,
+648059,713,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,5 Kg,,,OK,OK,OK,1194,647643,2018,Melisam,En recarga,648059,,10/2020,
+1474344,714,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,10 Kg,,,OK,OK,OK,1187,625340,2018,Melisam,En recarga,1474344,,10/2020,
+1948,715,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,10 Kg,,,OK,OK,OK,1189,624893,2018,Melisam,En recarga,1948,,10/2020,
+657894,716,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,10 Kg,,,OK,OK,OK,1186,676100,2018,Melisam,En recarga,657894,,10/2020,
+625285,717,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,10 Kg,,,OK,OK,OK,1188,676108,2018,Melisam,En recarga,625285,,10/2020,
+676537,718,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,10 Kg,,,OK,OK,OK,1190,676041,2018,Melisam,En recarga,676537,,10/2020,
+625291,719,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,10 Kg,,,OK,OK,OK,1191,675894,2018,Melisam,En recarga,625291,,10/2020,
+625270,720,LOTE 95,Amaya F.,Group Purchasing,Group Purchasing,POLVO,ABC,10 Kg,,,OK,OK,OK,1192,676721,2018,Melisam,En recarga,625270,,10/2020,
+,721,LOTE 95,Amaya F.,Ex Almacén de Comau,Almacén Comau,POLVO,ABC,10 Kg,10/2020,10/2023,NOK,NOK,OK,1221,676106,2018,Melisam,En planta,,#N/A,#N/A,
+,722,LOTE 95,Amaya F.,Ex Almacén de Comau,Almacén Comau,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,1222,676063,2018,Melisam,En planta,,#N/A,#N/A,
+,723,LOTE 95,Amaya F.,Ex Almacén de Comau,Almacén Comau,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,1223,676082,2018,Melisam,En planta,,#N/A,#N/A,
+,724,LOTE 95,Amaya F.,Taller Make,Taller Kaizen MAKE,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,1224,625305,2018,Melisam,En planta,,#N/A,#N/A,
+,725,LOTE 95,Amaya F.,Taller Make,Taller Kaizen MAKE,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,1225,625261,2018,Melisam,En planta,,#N/A,#N/A,
+,726,LOTE 95,Amaya F.,Taller Make,Taller Kaizen MAKE,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,NOK,1226,625323,2018,Melisam,En planta,,#N/A,#N/A,
+,727,LOTE 95,Amaya F.,Taller Make,Taller Kaizen MAKE,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,1227,625197,2018,Melisam,En planta,,#N/A,#N/A,
+,728,LOTE 95,Amaya F.,Taller Make,Depto.Taller Kaizen MAKE,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,1228,625095,2018,Melisam,En planta,,#N/A,#N/A,
+,729,LOTE 95,Amaya F.,Depósito de Empresa CIEM,Deposito. Empresa. Ciem,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,NOK,1229,625343,2018,Melisam,En planta,,#N/A,#N/A,
+2405,730,LOTE 95,Amaya F.,Edificio Bomberos / Depósito de Bomberos,Serv. Bomberos -interno,CO2,BC,2 Kg,,,OK,OK,NOK,1241,855291,2018,Drago,En recarga,2405,E-15,7/2021,
+2599,731,LOTE 95,Amaya F.,Edificio Bomberos / Depósito de Bomberos,Serv. Bomberos -interno,CO2,BC,2 Kg,,,OK,OK,OK,1242,855298,2018,Drago,En recarga,2599,E-16,7/2021,
+,732,LOTE 95,Amaya F.,Edificio Bomberos / Depósito de Bomberos,Serv. Bomberos -externo-,POLVO,ABC,10 Kg,7/2021,7/2024,NOK,OK,OK,1243,2279,2018,Melisam,En planta,,#N/A,#N/A,
+2401,733,LOTE 95,Amaya F.,Edificio Bomberos / Depósito de Bomberos,Antemodifica,POLVO,ABC,10 Kg,,,OK,OK,OK,1244,625628,2018,Melisam,En recarga,2401,,6/2021,
+387259,734,LOTE 95,Amaya F.,Edificio Bomberos / Depósito de Bomberos,Antemodifica,POLVO,ABC,10 Kg,,,OK,OK,OK,1245,625265,2018,Melisam,En recarga,387259,,6/2021,
+3710,735,LOTE 95,Amaya F.,Edificio Bomberos / Depósito de Bomberos,Antemodifica,POLVO,ABC,10 Kg,,,OK,OK,OK,1246,625209,2018,Melisam,En recarga,3710,,6/2021,
+647812,736,LOTE 95,Amaya F.,Unidades para emergencias,Autobomba. Magirus,POLVO,ABC,5 Kg,,,NC,NC,NC,S/Nº Int.,657150,2018,Melisam,En recarga,647812,,07/2021,
+4489,737,LOTE 95,Amaya F.,Unidades para emergencias,Autobom. Magirus,HALON,ABC,5 Kg,,,NC,NC,NC,S/Nº Int.,4493,2011,Horizonte,En recarga,4489,,03/2021,
+2147,738,LOTE 95,Amaya F.,Unidades para emergencias,Autobom. Magirus,CO2,BC,3.5 Kg,,,NC,NC,NC,S/Nº Int.,2147,2009,Horizonte,En recarga,2147,,11/2020,
+300255,739,LOTE 95,Amaya F.,Unidades para emergencias,Autobom. Magirus,AFFF,AB,10 Lts,,,NC,NC,NC,S/Nº Int.,300255,2018,Melisam,En recarga,300255,,11/2020,
+261,740,LOTE 95,Amaya F.,Unidades para emergencias,Ambulancia-Serv. Médico,POLVO,ABC,2.5 Kg,,,NC,NC,NC,S/Nº Int.,261,2011,Horizonte,En recarga,261,,12/2020,
+656202,741,LOTE 95,Amaya F.,Unidades para emergencias,Ambulancia Serv. Bomberos,POLVO,ABC,5 Kg,,,NC,NC,NC,S/Nº Int.,456358,2018,Melisam,En recarga,656202,,10/2020,
+1173,742,LOTE 95,Amaya F.,Unidades para emergencias,Fiat Toro- Safetty-,POLVO,ABC,5 Kg,,,NC,NC,NC,S/Nº Int.,656844,2011,Horizonte,En recarga,1173,,06/2021,
+5202,743,LOTE 95,Amaya F.,Unidades para emergencias,Fiat Toro- Safetty-,POLVO,ABC,5 Kg,,,NC,NC,NC,S/Nº Int.,857149,2011,Horizonte,En recarga,5202,,06/2021,
+853000,744,LOTE 95,Amaya F.,Unidades para emergencias,Fiat Toro- Safetty-,CO2,BC,3.5 Kg,,,NC,NC,NC,S/Nº Int.,857149,2018,Drago,En recarga,853000,,11/2020,
+676723,745,LOTE 95,Amaya F.,Comedor Central,Comedor Central,POLVO,ABC,10 Kg,,,OK,OK,OK,1269,676119,2018,Melisan,En recarga,676723,,10/2020,
+857137,746,LOTE 95,Amaya F.,Comedor Central,Comedor Central,CO2,BC,5 Kg,,,OK,OK,OK,1270,857920,2018,Drago,En recarga,857137,,11/2020,
+857029,747,LOTE 95,Amaya F.,Comedor Central,Comedor Central,CO2,BC,5 Kg,,,OK,OK,OK,1271,857460,2018,Drago,En recarga,857029,,11/2020,
+857125,748,LOTE 95,Amaya F.,Comedor Central,Comedor Central,CO2,BC,5 Kg,,,OK,OK,OK,1272,857454,2018,Drago,En recarga,857125,,11/2020,
+,749,LOTE 95,Amaya F.,Comedor Central,Comedor Central,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,1261,657044,2018,Melisan,En planta,,#N/A,#N/A,
+656285,750,LOTE 95,Amaya F.,Comedor Central,Comedor Central,POLVO,ABC,5 Kg,,,OK,OK,OK,1262,669395,2018,Melisan,En recarga,656285,,10/2020,
+,751,LOTE 95,Amaya F.,Comedor Central,Comedor Central,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,1263,669270,2018,Melisan,En planta,,#N/A,#N/A,
+648048,752,LOTE 95,Amaya F.,Comedor Central,Comedor Central,POLVO,ABC,5 Kg,,,OK,OK,OK,1264,657424,2018,Melisan,En recarga,648048,,10/2020,
+648079,753,LOTE 95,Amaya F.,Comedor Central,Comedor Central,POLVO,ABC,5 Kg,,,OK,OK,OK,1265,669812,2018,Melisan,En recarga,648079,,10/2020,
+648095,754,LOTE 95,Amaya F.,Comedor Central,Comedor Central,POLVO,ABC,5 Kg,,,OK,OK,OK,1266,657372,2018,Melisan,En recarga,648095,,10/2020,
+,755,LOTE 95,Amaya F.,Comedor Central,Atos Call-Center,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,NOK,1267,657396,2018,Melisan,En planta,,#N/A,#N/A,
+,756,LOTE 95,Amaya F.,Comedor Central,Atos Oficina,POLVO,ABC,5 Kg,5/2021,5/2023,OK,OK,OK,1268,669387,2018,Melisan,En planta,,#N/A,#N/A,
+,757,LOTE 95,Amaya F.,Edificio Central,Cantina Edif Ctral.,POLVO,ABC,5 Kg,,,,,,1281,647691,2018,Melisan,En planta,,#N/A,#N/A,
+859797,758,LOTE 95,Amaya F.,Edificio Central,Pasillo Pta. Baja,CO2,BC,10 Kg,,,OK,OK,OK,1291,855860,2018,Drago,En recarga,859797,J,11/2020,
+860186,759,LOTE 95,Amaya F.,Edificio Central,Pasillo Pta. Baja,CO2,BC,10 Kg,,,OK,OK,OK,1292,855861,2018,Drago,En recarga,860186,J,11/2020,
+855851,760,LOTE 95,Amaya F.,Edificio Central,Pasillo Pta. Baja,CO2,BC,10 Kg,,,OK,OK,OK,1293,855844,2018,Drago,En recarga,855851,J,11/2020,
+,761,LOTE 95,Amaya F.,Edificio Central,Sub suelo A/ Accond.,CO2,BC,10 Kg,,,,,,1295,856995,2018,Drago,En planta,,#N/A,#N/A,
+859794,762,LOTE 95,Amaya F.,Edificio Central,Inform - Comun-1-,CO2,BC,10 Kg,,,OK,OK,OK,1297,856997,2018,Drago,En recarga,859794,J,11/2020,
+2188,763,LOTE 95,Amaya F.,Edificio Central,Inform - Comun-1-,CO2,BC,3.5 Kg,,,OK,OK,OK,1300,855686,2018,Drago,En recarga,2188,,03/2021,
+647904,764,LOTE 95,Amaya F.,Edificio Central,Inform - Comun-1-,CO2,BC,5 Kg,,,OK,OK,OK,1282,647277,2018,Drago,En recarga,647904,,12/2020,
+,765,LOTE 95,Amaya F.,Edificio Central,Inform - Comun-2-,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,1296,856996,2018,Drago,En planta,,#N/A,#N/A,
+857932,766,LOTE 95,Amaya F.,Edificio Central,Inform - Comun-2-,CO2,BC,5 Kg,,,OK,OK,OK,1307,855716,2018,Drago,En recarga,857932,,11/2020,
+2444,767,LOTE 95,Amaya F.,Edificio Central,Inform - Comun-2-,CO2,BC,3.5 Kg,,,OK,OK,OK,1301,855653,2018,Drago,En recarga,2444,,03/2021,
+648033,768,LOTE 95,Amaya F.,Edificio Central,Inform - Comun-2-,POLVO,ABC,5 Kg,,,OK,OK,OK,1283,647694,2018,Drago,En recarga,648033,,12/2020,
+857916,769,LOTE 95,Amaya F.,Edificio Central,Control Industrial,CO2,BC,5 Kg,,,OK,OK,OK,1309,855753,2018,Drago,En recarga,857916,,11/2020,
+760633,770,LOTE 95,Amaya F.,Edificio Central,Control Industrial,POLVO,ABC,5 Kg,,,OK,OK,OK,1284,647550,2018,Melisan,En recarga,760633,,12/2020,
+657340,771,LOTE 95,Amaya F.,Edificio Central,Ingreso al minibanco,POLVO,ABC,5 Kg,,,OK,OK,OK,1288,647991,2018,Melisan,En recarga,657340,,03/2021,
+1416,772,LOTE 95,Amaya F.,Edificio Central,Banco Galicia -interno-,CO2,BC,2 Kg,,,OK,OK,OK,S/Nº,,2018,Drago,En recarga,1416,,03/2021,
+858756,773,LOTE 95,Amaya F.,Edificio Central,Seguridad Patrimonial,CO2,BC,10 Kg,,,OK,OK,OK,1294,855734,2018,Drago,En recarga,858756,J,12/2020,
+857407,774,LOTE 95,Amaya F.,Edificio Central,Seguridad Patrimonial,CO2,BC,5 Kg,,,OK,OK,OK,1308,8/55734,2018,Drago,En recarga,857407,,11/2020,
+2274,775,LOTE 95,Amaya F.,Edificio Central,Direccion,CO2,BC,3.5 Kg,,,OK,OK,OK,1302,855633,2018,Drago,En recarga,2274,,03/2021,
+2382,776,LOTE 95,Amaya F.,Edificio Central,Direccion,CO2,BC,3.5 Kg,,,OK,OK,OK,1303,855642,2018,Drago,En recarga,2382,,03/2021,
+2520,777,LOTE 95,Amaya F.,Edificio Central,Direccion,CO2,BC,3.5 Kg,,,OK,OK,OK,1304,855656,2018,Drago,En recarga,2520,,03/2021,
+,778,LOTE 95,Amaya F.,Edificio Central,Personal,POLVO,ABC,5 Kg,3/2021,3/2023,OK,OK,OK,1285,647272,2018,Melisam,En planta,,#N/A,#N/A,
+2521,779,LOTE 95,Amaya F.,Edificio Central,Personal,CO2,BC,3.5 Kg,,,OK,OK,OK,1305,855587,2018,Drago,En recarga,2521,,03/2021,
+760159,780,LOTE 95,Amaya F.,Edificio Central,Personal,POLVO,ABC,5 Kg,,,OK,OK,OK,1289,647525,2018,Melisam,En recarga,760159,,12/2020,
+859785,781,LOTE 95,Amaya F.,Edificio Central,Comercial PostVenta,CO2,BC,10 Kg,,,OK,OK,OK,1299,856969,2018,Drago,En recarga,859785,J,11/2020,
+656119,782,LOTE 95,Amaya F.,Edificio Central,Comercial PostVenta,POLVO,ABC,5 Kg,,,OK,OK,OK,1287,648024,2018,Melisam,En recarga,656119,,12/2020,
+859200,783,LOTE 95,Amaya F.,Edificio Central,Comercial,CO2,BC,10 Kg,,,OK,OK,OK,1298,856998,2018,Drago,En recarga,859200,,11/2020,
+760589,784,LOTE 95,Amaya F.,Edificio Central,Comercial,POLVO,ABC,5 Kg,,,OK,OK,OK,1286,648006,2018,Melisam,En recarga,760589,,12/2020,
+,785,LOTE 95,Amaya F.,Edificio Central,Casilla Ascensor,CO2,BC,5 Kg,,,,,,S/Nº Int.,,,,En planta,,#N/A,#N/A,
+675891,786,LOTE 95,Amaya F.,Edificio Central,Subestacion eléctrica,POLVO,ABC,10 Kg,,,OK,OK,OK,1311,625221,2018,Melisam,En recarga,675891,,12/2020,
+656197,787,LOTE 95,Delfitto C.,Centro médico Medife-,Recepcion,POLVO,ABC,5 Kg,,,OK,OK,OK,1321,647696,2018,Melisam,En recarga,656197,,10/2020,Cassaro
+646738,788,LOTE 95,Delfitto C.,Centro médico Medife-,Direccion Medife,POLVO,ABC,5 Kg,,,OK,OK,OK,1322,647630,2018,Melisam,En recarga,646738,,10/2020,Cassaro
+656172,789,LOTE 95,Delfitto C.,Centro médico Medife-,Direccion Medife,POLVO,ABC,5 Kg,,,OK,OK,OK,1323,647659,2018,Melisam,En recarga,656172,,10/2020,Cassaro
+656108,790,LOTE 95,Delfitto C.,Centro médico Medife-,Sala de espera (1),POLVO,ABC,5 Kg,,,OK,OK,OK,1324,647628,2018,Melisam,En recarga,656108,,10/2020,Cassaro
+647988,791,LOTE 95,Delfitto C.,Centro médico Medife-,Sala de rayos X,POLVO,ABC,5 Kg,,,OK,OK,OK,1325,647699,2018,Melisam,En recarga,647988,,10/2020,Cassaro
+656194,792,LOTE 95,Delfitto C.,Centro médico Medife-,Laboratorio,POLVO,ABC,5 Kg,,,OK,OK,OK,1326,648000,2018,Melisam,En recarga,656194,,10/2020,Cassaro
+656379,793,LOTE 95,Delfitto C.,Centro médico Medife-,Sala de espera (1),POLVO,ABC,5 Kg,,,OK,OK,OK,1327,647656,2018,Melisam,En recarga,656379,,10/2020,Cassaro
+656180,794,LOTE 95,Delfitto C.,Centro médico Medife-,Sala de espera (2),POLVO,ABC,5 Kg,,,OK,OK,OK,1328,647403,2018,Melisam,En recarga,656180,,10/2020,Cassaro
+648057,795,LOTE 95,Delfitto C.,Centro médico Medife-,Fisoterapia,POLVO,ABC,5 Kg,,,OK,OK,OK,1329,647702,2018,Melisam,En recarga,648057,,10/2020,Cassaro
+656373,796,LOTE 95,Delfitto C.,Centro médico Medife-,Consultorio 10,POLVO,ABC,5 Kg,,,OK,OK,OK,1330,647664,2018,Melisam,En recarga,656373,,10/2020,Cassaro
+656275,797,LOTE 95,Delfitto C.,Centro médico Medife-,Hall de servicio,POLVO,ABC,5 Kg,,,OK,OK,OK,1331,647700,2018,Melisam,En recarga,656275,,10/2020,Cassaro
+656334,798,LOTE 95,Delfitto C.,Centro médico Medife-,Hall de servicio,POLVO,ABC,5 Kg,,,OK,OK,OK,1332,647994,2018,Melisam,En recarga,656334,,10/2020,Cassaro
+656224,799,LOTE 95,Delfitto C.,Auditorio Susana Agnelli,Auditorio- S. Agnelli,POLVO,ABC,5 Kg,,,OK,OK,OK,1341,669356,2018,Melisam,En recarga,656224,,10/2020,Cassaro
+656214,800,LOTE 95,Delfitto C.,Auditorio Susana Agnelli,Auditorio- S. Agnelli,POLVO,ABC,5 Kg,,,OK,OK,OK,1342,669392,2018,Melisam,En recarga,656214,,10/2020,Cassaro
+648082,801,LOTE 95,Delfitto C.,Auditorio Susana Agnelli,Auditorio- S. Agnelli,POLVO,ABC,5 Kg,,,OK,OK,OK,1343,654734,2018,Melisam,En recarga,648082,,10/2020,Cassaro
+647997,802,LOTE 95,Delfitto C.,Auditorio Susana Agnelli,Auditorio- S. Agnelli,POLVO,ABC,5 Kg,,,OK,OK,OK,1344,657334,2018,Melisam,En recarga,647997,,10/2020,Cassaro
+656138,803,LOTE 95,Delfitto C.,Auditorio Susana Agnelli,Auditorio- S. Agnelli,POLVO,ABC,5 Kg,,,OK,OK,OK,1345,657347,2018,Melisam,En recarga,656138,,10/2020,Cassaro
+218149,804,LOTE 95,Delfitto C.,Auditorio Susana Agnelli,Auditorio- S. Agnelli,POLVO,ABC,5 Kg,,,OK,OK,OK,1346,657390,2018,Melisam,En recarga,218149,D-13,1/10/2020,Cassaro
+,805,LOTE 95,Delfitto C.,Auditorio Susana Agnelli,Auditorio- S. Agnelli,HALON,ABC,5 Kg,3/2021,3/2021,OK,OK,OK,1347,4327,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+3718,806,LOTE 95,Delfitto C.,Playa de Operarios,Playa de Operarios FCA,POLVO,ABC,25 Kg,,,OK,OK,OK,S/Nº Int.,3705,2011,Horizonte,En recarga,3718,L,1/12/2020,Cassaro
+,807,LOTE 95,Delfitto C.,Playa de Operarios,Playa de Operarios FCA,POLVO,ABC,25 Kg,10/2020,10/2021,OK,OK,OK,S/Nº Int.,3701,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+1680,808,LOTE 95,Delfitto C.,Playa de Operarios,Playa de Operarios FCA,POLVO,ABC,5 Kg,,,OK,OK,OK,S/Nº Int.,657208,2018,Melisam,En recarga,1680,C-06,1/7/2021,Cassaro
+1385,809,LOTE 95,Delfitto C.,Playa de Operarios,Playa de Operarios FCA,POLVO,ABC,5 Kg,,,OK,OK,OK,S/Nº Int.,657432,2018,Melisam,En recarga,1385,C-06,1/7/2021,Cassaro
+347,810,LOTE 95,Delfitto C.,Playa de Operarios,Playa de Operarios FCA,POLVO,ABC,5 Kg,,,OK,OK,OK,Reserva,737653,2018,Melisam,En recarga,347,C-06,1/7/2021,Cassaro
+5177,811,LOTE 95,Delfitto C.,Playa de Operarios,Playa de Operarios FCA,POLVO,ABC,5 Kg,,,OK,OK,OK,Reserva,657412,2018,Melisam,En recarga,5177,C-06,1/6/2021,Cassaro
+,812,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,25 Kg,5/2021,5/2023,OK,OK,OK,S/Nº Int.,51905,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,813,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,25 Kg,10/2020,10/2024,OK,OK,OK,S/Nº Int.,38262,2009,Melisam,En planta,,#N/A,#N/A,Cassaro
+4669,814,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,5 Kg,,,OK,OK,OK,S/Nº Int.,657423,2018,Melisam,En recarga,4669,C-06,1/7/2021,Cassaro
+2845,815,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,5 Kg,,,OK,OK,OK,S/Nº Int.,656905,2018,Melisam,En recarga,2845,C-06,1/7/2021,Cassaro
+1705,816,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,5 Kg,,,OK,OK,OK,S/Nº Int.,669446,2018,Melisam,En recarga,1705,A-02,10/2020,Cassaro
+147,817,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,5 Kg,,,OK,OK,OK,S/Nº Int.,657029,2018,Melisam,En recarga,147,H-26,5/2021,Cassaro
+,818,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,S/Nº Int.,656175,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+,819,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,5 Kg,10/2020,10/2021,OK,OK,OK,S/Nº Int.,2244,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,820,LOTE 95,Delfitto C.,Playa de Dependientes,Playa de Dependientes,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,S/Nº Int.,271071,2008,Yukon,En planta,,#N/A,#N/A,Cassaro
+,821,LOTE 95,Delfitto C.,Edificio Guardia Central/Recepción,Guardia Central,HALON,ABC,5 Kg,5/2021,5/2021,OK,OK,OK,1152,4480,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+625068,822,LOTE 95,Delfitto C.,Edificio Guardia Central/Recepción,Gdia. Ctral. Ext.,POLVO,ABC,10 Kg,,,OK,OK,OK,1151,657800,2018,Melisam,En recarga,625068,A-02,1/7/2021,Cassaro
+,823,LOTE 95,Delfitto C.,Edificio Guardia Central/Recepción,Recepcion,HALON,ABC,5 Kg,5/2021,5/2021,OK,OK,OK,1153,3702,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,824,LOTE 95,Delfitto C.,Edificio Guardia Central/CCTV-Prevención de extraviados-,Sala CCTV ext.,HALON,ABC,5 Kg,5/2021,5/2021,OK,OK,OK,1154,3157,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,825,LOTE 95,Delfitto C.,Edificio Guardia Central/CCTV-Prevención de extraviados-,Prevención de extraviados,HALON,ABC,5 Kg,5/2021,5/2021,OK,OK,OK,1155,715,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,826,LOTE 95,Delfitto C.,"Guardia Central- Ventas directas/ Servicio Generales,",Ventas Directas,HALON,ABC,5 Kg,5/2021,5/2021,OK,OK,OK,1156,3851,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,827,LOTE 95,Delfitto C.,"Guardia Central- Ventas directas/ Servicio Generales,",Serv. Grales,HALON,ABC,5 Kg,5/2021,5/2021,OK,OK,OK,1157,3357,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,828,LOTE 95,Delfitto C.,"Guardia Central- Ventas directas/ Servicio Generales,",Serv. Grales,HALON,ABC,5 Kg,5/2020,5/2021,OK,OK,OK,1158,4049,2011,Horizonte,En planta,,#N/A,#N/A,Cassaro
+,829,LOTE 95,Delfitto C.,Servicio médico de Planta,Ser. Med. Interior,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,1148,656242,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+271747,830,LOTE 95,Delfitto C.,Servicio médico de Planta,Ser. Med. Interior,POLVO,ABC,5 Kg,,,OK,OK,OK,1149,648053,2018,Melisam,En recarga,271747,C-06,1/12/2020,Cassaro
+676648,831,LOTE 95,Delfitto C.,Servicio médico de Planta,Ser. Med. Ext.,POLVO,ABC,10 Kg,,,OK,OK,OK,1150,676706,2018,Melisam,En recarga,676648,,12/2020,Cassaro
+,832,LOTE 95,Delfitto C.,Nueva data Center,Nueva data Center,POLVO,ABC,5 Kg,3/2021,3/2022,OK,OK,OK,1136,1647865,2017,Yukon,En planta,,#N/A,#N/A,Cassaro
+,833,LOTE 95,Delfitto C.,Nueva data Center,Nueva data Center,POLVO,ABC,5 Kg,3/2021,3/2022,OK,OK,OK,1137,1646821,2017,Yukon,En planta,,#N/A,#N/A,Cassaro
+,834,LOTE 95,Delfitto C.,Nueva data Center,Nueva data Center,CO2,BC,2 Kg,3/2021,3/2022,OK,OK,OK,1138,826721,2017,Yukon,En planta,,#N/A,#N/A,Cassaro
+,835,LOTE 95,Delfitto C.,Nueva data Center,Nueva data Center,HALON,ABC,2.5 Kg,3/2021,3/2022,OK,OK,OK,1139,1626607,2017,Yukon,En planta,,#N/A,#N/A,Cassaro
+,836,LOTE 95,Delfitto C.,Nueva data Center,Nueva data Center,HALON,ABC,2.5 Kg,3/2021,3/2022,OK,OK,OK,1140,1626675,2017,Yukon,En planta,,#N/A,#N/A,Cassaro
+2060,837,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,CO2,BC,3.5 Kg,,,OK,OK,OK,1166,855574,2018,Melisam,En recarga,2060,,03/2021,Cassaro
+857114,838,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,CO2,BC,3.5 Kg,,,OK,OK,OK,1167,855603,2018,Melisam,En recarga,857114,E-15,1/3/2021,Cassaro
+2545,839,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,CO2,BC,3.5 Kg,,,OK,OK,OK,1170,855637,2018,Melisam,En recarga,2545,E-15,1/3/2021,Cassaro
+2157,840,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,POLVO,ABC,10 Kg,,,OK,OK,OK,1172,625385,2018,Melisam,En recarga,2157,A-02,1/3/2021,Cassaro
+,841,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,HALON,ABC,10 Kg,10/2020,10/2020,OK,OK,OK,1178,970331,2005,Yukon,En planta,,#N/A,#N/A,Cassaro
+,842,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,HALON,ABC,10 Kg,11/2020,10/2024,OK,OK,OK,1180,970443,2005,Yukon,En planta,,#N/A,#N/A,Cassaro
+,843,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,HALON,ABC,5 Kg,10/2020,10/2024,OK,OK,OK,1179,968095,2005,Yukon,En planta,,#N/A,#N/A,Cassaro
+857031,844,LOTE 95,Delfitto C.,FCA- Service,Tesoreria,CO2,BC,3.5 Kg,3/2021,3/2021,OK,OK,OK,1169,855612,2018,Drago,En recarga,857031,E-15,1/3/2021,Cassaro
+,845,LOTE 95,Delfitto C.,FCA- Service,Gesco (Pgo.Prov.),POLVO,ABC,5 Kg,7/2021,7/2023,OK,OK,OK,1176,647631,2018,Melisam,En planta,,#N/A,#N/A,Cassaro
+656299,846,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,POLVO,ABC,5 Kg,,,OK,OK,OK,1174,647652,2018,Melisam,En recarga,656299,C-09,1/10/2020,Cassaro
+2084,847,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,CO2,BC,3.5 Kg,,,OK,OK,OK,1168,855634,2018,Drago,En recarga,2084,E-15,1/3/2020,Cassaro
+656106,848,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,POLVO,ABC,5 Kg,,,OK,OK,OK,1175,648027,2018,Melisam,En recarga,656106,C-09,1/10/2020,Cassaro
+656217,849,LOTE 95,Delfitto C.,FCA- Service,FCA Service-oficina-,POLVO,ABC,5 Kg,,,OK,OK,OK,1177,648021,2018,Melisam,En recarga,656217,C-09,1/10/2020,Cassaro
+625277,850,LOTE 95,Delfitto C.,Caldera FCA Service,Caldera FCA Service,POLVO,ABC,10 Kg,,,OK,OK,OK,1173,625277,2018,Melisam,En recarga,625277,A-01,1/3/2021,Cassaro
+1148,851,LOTE 95,Delfitto C.,Caldera FCA Service,Caldera FCA Service,CO2,BC,5 Kg,,,OK,OK,OK,1174,857949,2018,Drago,En recarga,1148,E-14,1/5/2021,Cassaro
+676642,852,LOTE 95,Delfitto C.,SADI,Oficinas SADI,POLVO,ABC,10 Kg,,,OK,OK,OK,1182,657958,2018,Melisam,En recarga,676642,B-05,1/12/2020,Cassaro
+676053,853,LOTE 95,Delfitto C.,SADI,Oficinas SADI,POLVO,ABC,10 Kg,,,OK,OK,OK,1183,676691,2018,Melisam,En recarga,676053,B-05,1/3/2021,Cassaro
+676569,854,LOTE 95,Delfitto C.,SADI,Oficinas SADI,POLVO,ABC,10 Kg,,,OK,OK,OK,1184,676052,2018,Melisam,En recarga,676569,B-05,1/12/2020,Cassaro
+676646,855,LOTE 95,Delfitto C.,SADI,Oficinas SADI,POLVO,ABC,10 Kg,,,OK,OK,OK,1181,676182,2018,Melisam,En recarga,676646,B-05,1/12/2020,Cassaro
+676089,856,LOTE 95,Delfitto C.,SADI,Oficinas SADI,POLVO,ABC,10 Kg,,,OK,OK,OK,1185,676102,2018,Melisam,En recarga,676089,B-05,1/12/2020,Cassaro
+,918,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,762,300242,2018,Melisam,En planta,,#N/A,#N/A,
+,919,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,763,300252,2018,Melisam,En planta,,#N/A,#N/A,
+,920,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,764,468750,2018,Melisam,En planta,,#N/A,#N/A,
+,921,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,765,300204,2018,Melisam,En planta,,#N/A,#N/A,
+,922,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,766,300290,2018,Melisam,En planta,,#N/A,#N/A,
+,923,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,767,300206,2018,Melisam,En planta,,#N/A,#N/A,
+,924,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,768,468910,2018,Melisam,En planta,,#N/A,#N/A,
+2074,925,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,CO2,BC,3.5 Kg,,,OK,OK,OK,771,857136,2018,Drago,En recarga,2074,F-18,7/2021,
+2527,926,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,CO2,BC,3.5 Kg,,,OK,OK,OK,772,857138,2018,Drago,En recarga,2527,F-18,7/2021,
+,927,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,769,300358,2018,Melisam,En planta,,#N/A,#N/A,
+,928,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,770,468090,2018,Melisam,En planta,,#N/A,#N/A,
+662,929,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,POLVO,ABC,10 Kg,,,OK,OK,OK,773,657991,2018,Melisam,En recarga,662,C-09,12/2020,
+2193,930,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,POLVO,ABC,10 Kg,,,OK,OK,OK,774,657981,2018,Melisam,En recarga,2193,C-09,12/2020,
+4570,931,LOTE 95,Sitto F.,Asitencia Técnica,Asitencia Técnica,POLVO,ABC,10 Kg,,,OK,OK,OK,775,657979,2018,Melisam,En recarga,4570,C-09,12/2020,
+468060,932,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A1 / 04,AFFF,AB,10 Lts,,,OK,OK,OK,1,468599,2018,Melisam,En recarga,468060,G-21,1/11/2020,
+468738,933,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A1 / 05,AFFF,AB,10 Lts,,,OK,OK,OK,2,468337,2018,Melisam,En recarga,468738,G-21,11/2020,
+1562,934,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A1/ 07,CO2,BC,5 Kg,,,OK,OK,OK,61,855765,2018,Drago,En recarga,1562,E-16,1/11/2021,
+1152,935,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A1/ 08,CO2,BC,5 Kg,,,OK,OK,OK,62,855763,2018,Drago,En recarga,1152,C-07,10/2020,
+4668065,936,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A1 / 09,AFFF,AB,10 Lts,,,OK,OK,OK,3,468604,2018,Melisam,En recarga,4668065,G-21,11/2020,
+1498,937,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A1 / 11,CO2,BC,5 Kg,,,OK,OK,OK,63,855762,2018,Drago,En recarga,1498,E-16,1/11/2020,
+1132,938,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A1 / 12,CO2,BC,5 Kg,,,OK,OK,OK,64,855756,2018,Drago,En recarga,1132,E-16,1/12/2020,
+3664,939,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A1 / 14 ex fundic.,POLVO,ABC,10 Kg,,,OK,OK,OK,116,625286,2018,Melisam,En recarga,3664,B-04,1/5/2021,
+1798,940,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A 1/ 15 ex fundic,POLVO,ABC,10 Kg,,,OK,OK,OK,117,625128,2018,Melisam,En recarga,1798,#N/A,#N/A,
+1748,941,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A / 02,CO2,BC,5 Kg,,,OK,OK,OK,65,855738,2018,Drago,En recarga,1748,,1/11/2020,
+468246,942,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Horno 153 -Box-,AFFF,AB,10 Lts,,,OK,OK,OK,5,468079,2018,Melisam,En recarga,468246,G-21,1/11/2020,
+300168,943,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Horno 153 -Box-,AFFF,AB,10 Lts,,,OK,OK,OK,6,468069,2018,Melisam,En recarga,300168,G-21,1/11/2020,
+,944,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A/ 06 -Box-,POLVO,ABC,25 Kg,3/2021,3/2024,OK,OK,OK,171,51977,2018,Melisam,En planta,,#N/A,#N/A,
+,945,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A/ 06 -Box-,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,141,855888,2018,Drago,En planta,,#N/A,#N/A,
+1529,946,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A / 07,CO2,BC,5 Kg,,,OK,OK,OK,66,855744,2018,Drago,En recarga,1529,E-16,1/12/2020,
+,947,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sala de Engranofonos,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,142,855867,2018,Drago,En planta,,#N/A,#N/A,
+,948,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A / 09,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,140,855871,2018,Drago,En planta,,#N/A,#N/A,
+,949,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A / 11,AFFF,AB,10 Lts,3/2021,3/2022,OK,OK,OK,9,468826,2018,Melisam,En planta,,#N/A,#N/A,
+,950,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. A / 13,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,139,855863,2018,Drago,En planta,,#N/A,#N/A,
+1489,951,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. B / 12,CO2,BC,5 Kg,,,OK,OK,OK,68,856244,2018,Drago,En recarga,1489,E-16,1/12/2020,
+1395,952,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. B / 11,CO2,BC,5 Kg,,,OK,OK,OK,67,855704,2018,Drago,En recarga,1395,E-16,1/12/2020,
+468029,953,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. B / 08,AFFF,AB,10 Lts,,,OK,OK,OK,8,468323,2018,Melisam,En recarga,468029,G-21,1/11/2020,
+468768,954,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. B / 07,AFFF,AB,10 Lts,,,OK,OK,OK,7,468213,2018,Melisam,En recarga,468768,G-21,3/2021,
+300374,955,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. B/ 05,AFFF,AB,10 Lts,,,OK,OK,OK,45,468820,2018,Melisam,En recarga,300374,G-21,11/2020,
+300474,956,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Col. B/ 03,AFFF,AB,10 Lts,,,OK,OK,OK,4,468421,2018,Melisam,En recarga,300474,G-21,1/11/2020,
+4149,957,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,POLVO,ABC,10 Kg,,,OK,OK,OK,121,625242,2018,Melisam,En recarga,4149,B-04,1/5/2021,
+300304,958,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,AFFF,AB,10 Lts,,,OK,OK,OK,42,468766,2018,Melisam,En recarga,300304,#N/A,#N/A,
+300176,959,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,AFFF,AB,10 Lts,,,OK,OK,OK,46,468559,2018,Melisam,En recarga,300176,G-21,11/2020,
+468085,960,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,AFFF,AB,10 Lts,,,OK,OK,OK,40,468758,2018,Melisam,En recarga,468085,G-21,1/11/2020,
+300584,961,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,AFFF,AB,10 Lts,,,OK,OK,OK,44,468889,2018,Melisam,En recarga,300584,G-21,1/11/2020,
+300407,962,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,AFFF,AB,10 Lts,,,OK,OK,OK,31,300584,2018,Melisam,En recarga,300407,G-21,11/2020,
+51958,963,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,POLVO,ABC,25 Kg,,,OK,OK,OK,173,51889,2018,Melisam,En recarga,51958,K,1/5/2021,
+468463,964,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,AFFF,AB,10 Lts,,,OK,OK,OK,39,468147,2018,Melisam,En recarga,468463,G-21,1/11/2020,
+468095,965,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,AFFF,AB,10 Lts,,,OK,OK,OK,43,468374,2018,Melisam,En recarga,468095,G-21,11/2020,
+,966,LOTE 95,Uva M.,Unidad de Tratamientos Térmicos,Sub.Suelo T/Térmico,POLVO,ABC,5 Kg,5/2021,5/2023,OK,OK,OK,155,647983,2018,Melisam,En planta,,#N/A,#N/A,
+1757,967,LOTE 95,Uva M.,Unidad de Cajas.,Col. C / 02,CO2,BC,5 Kg,,,OK,OK,OK,71,855725,2018,Drago,En recarga,1757,E-16,1/12/2020,
+300134,968,LOTE 95,Uva M.,Unidad de Cajas.,Col. C /  03-04,AFFF,AB,10 Lts,,,OK,OK,OK,11,468191,2018,Melisam,En recarga,300134,G-21,1/11/2020,
+300043,969,LOTE 95,Uva M.,Unidad de Cajas.,Col. C / 05,AFFF,AB,10 Lts,,,OK,OK,OK,12,468336,2018,Melisam,En recarga,300043,G-21,11/2020,
+886792,970,LOTE 95,Uva M.,Unidad de Cajas.,Col.C / 07,POLVO,ABC,5 Kg,,,OK,OK,OK,151,647923,2018,Melisam,En recarga,886792,C-08,1/6/2021,
+1183,971,LOTE 95,Uva M.,Unidad de Cajas.,Cabina. Rod. Fiat,CO2,BC,5 Kg,,,OK,OK,OK,70,855777,2018,Drago,En recarga,1183,E-16,1/6/2021,
+1284,972,LOTE 95,Uva M.,Unidad de Cajas.,Cabina. Rod. Fiat,CO2,BC,5 Kg,,,OK,OK,OK,69,855739,2018,Drago,En recarga,1284,E-16,1/6/2021,
+,973,LOTE 95,Uva M.,Unidad de Cajas.,Safety Doyo Room,HALON,ABC,5 Kg,12/2020,12/2024,OK,OK,OK,177,61235,2006,Georgia,En planta,,#N/A,#N/A,
+673944,974,LOTE 95,Uva M.,Unidad de Cajas.,Safety Doyo Room,POLVO,ABC,5 Kg,,,OK,OK,OK,156,647698,2018,Melisam,En recarga,673944,C-08,1/6/2021,
+1305,975,LOTE 95,Uva M.,Unidad de Cajas.,Col. C / 10,CO2,BC,5 Kg,,,OK,OK,OK,72,855709,2018,Drago,En recarga,1305,E-16,1/12/2020,
+300103,976,LOTE 95,Uva M.,Unidad de Cajas.,Col. C / 13,AFFF,AB,10 Lts,,,OK,OK,OK,13,468346,2018,Melisam,En recarga,300103,G-21,11/2020,
+3509,977,LOTE 95,Uva M.,Unidad de Cajas.,Col. C/ 14,POLVO,ABC,10 Kg,,,OK,OK,OK,111,625324,2018,Melisam,En recarga,3509,B-04,1/3/2021,
+664434,978,LOTE 95,Uva M.,Unidad de Cajas.,Col. C/ 14- ex fundic.,POLVO,ABC,10 Kg,,,OK,OK,OK,118,625339,2018,Melisam,En recarga,664434,B-04,1/5/2021,
+1788,979,LOTE 95,Uva M.,Unidad de Cajas.,Col. C/ 15 ex fundic.,POLVO,ABC,10 Kg,,,OK,OK,OK,119,625194,2018,Melisam,En recarga,1788,B-04,1/12/2020,
+2113,980,LOTE 95,Uva M.,Unidad de Cajas.,Col. D / 13,CO2,BC,5 Kg,,,OK,OK,OK,98,855803,2018,Drago,En recarga,2113,E-16,1/12/2020,
+4464,981,LOTE 95,Uva M.,Unidad de Cajas.,Col. D / 14,POLVO,ABC,10 Kg,,,OK,OK,OK,126,676059,2018,Melisam,En recarga,4464,B-04,1/5/2021,
+300580,982,LOTE 95,Uva M.,Unidad de Cajas.,Col. D 1 / 14,AFFF,AB,10 Lts,,,OK,OK,OK,46,468346,2018,Melisam,En recarga,300580,G-21,1/11/2020,
+300021,983,LOTE 95,Uva M.,Unidad de Cajas.,Col. D / 11,AFFF,AB,10 Lts,,,OK,OK,OK,48,468752,2018,Melisam,En recarga,300021,G-21,11/2020,
+2017,984,LOTE 95,Uva M.,Unidad de Cajas.,Cabina S.A.E,CO2,BC,3.5 Kg,,,OK,OK,OK,164,855590,2018,Drago,En recarga,2017,E-15,1/11/2020,
+,985,LOTE 95,Uva M.,Unidad de Cajas.,Cabina S.A.E,CO2,BC,3.5 Kg,12/2020,12/2023,OK,OK,OK,163,855685,2018,Drago,En planta,,#N/A,#N/A,
+2599,986,LOTE 95,Uva M.,Unidad de Cajas.,Cabina S.A.E,CO2,BC,3.5 Kg,,,OK,OK,OK,165,857018,2018,Drago,En recarga,2599,E-16,7/2021,
+300575,987,LOTE 95,Uva M.,Unidad de Cajas.,Col. D / 09,AFFF,AB,10 Lts,,,OK,OK,OK,14,468137,2018,Melisam,En recarga,300575,G-21,11/2020,
+300231,988,LOTE 95,Uva M.,Unidad de Cajas.,Col. D / 07,AFFF,AB,10 Lts,,,OK,OK,OK,15,468194,2018,Melisam,En recarga,300231,G-21,11/2020,
+300559,989,LOTE 95,Uva M.,Unidad de Cajas.,Col. D /  05,AFFF,AB,10 Lts,,,OK,OK,OK,20,468400,2018,Melisam,En recarga,300559,G-21,11/2020,
+300577,990,LOTE 95,Uva M.,Unidad de Cajas.,Col. D. /  02,AFFF,AB,10 Lts,,,OK,OK,OK,10,468311,2018,Melisam,En recarga,300577,G-21,1/11/2020,
+468734,991,LOTE 95,Uva M.,Unidad de Cajas.,Col. E /  02,AFFF,AB,10 Lts,,,OK,OK,OK,16,468305,2018,Melisam,En recarga,468734,G-21,11/2020,
+300336,992,LOTE 95,Uva M.,Unidad de Cajas.,Col. E /  05,AFFF,AB,10 Lts,,,OK,OK,OK,17,468461,2018,Melisam,En recarga,300336,G-21,11/2020,
+300299,993,LOTE 95,Uva M.,Unidad de Cajas.,Col. E / 07,AFFF,AB,10 Lts,,,OK,OK,OK,18,468339,2018,Melisam,En recarga,300299,G-21,1/11/2020,
+300267,994,LOTE 95,Uva M.,Unidad de Cajas.,Col. E /  09,AFFF,AB,10 Lts,,,OK,OK,OK,19,468220,2018,Melisam,En recarga,300267,G-21,1/11/2020,
+1077,995,LOTE 95,Uva M.,Unidad de Cajas.,Col. E / 10,CO2,BC,5 Kg,,,OK,OK,OK,90,855759,2018,Drago,En recarga,1077,E-16,1/11/2020,
+1359,996,LOTE 95,Uva M.,Unidad de Cajas.,Col. E / 11,CO2,BC,5 Kg,,,OK,OK,OK,91,855779,2018,Drago,En recarga,1359,E-16,1/12/2020,
+1624,997,LOTE 95,Uva M.,Unidad de Cajas.,Col. E / 13,CO2,BC,5 Kg,,,OK,OK,OK,92,855792,2018,Drago,En recarga,1624,E-16,1/12/2020,
+468426,998,LOTE 95,Uva M.,Unidad de Cajas.,Col. E / 14,AFFF,AB,10 Lts,,,OK,OK,OK,35,468770,2018,Melisam,En recarga,468426,G-21,11/2020,
+300507,999,LOTE 95,Uva M.,Unidad de Cajas.,Col. F / 12,AFFF,AB,10 Lts,,,OK,OK,OK,24,468131,2018,Melisam,En recarga,300507,G-21,1/11/2020,
+1020,1000,LOTE 95,Uva M.,Unidad de Cajas.,Col. F / 10,CO2,BC,5 Kg,,,OK,OK,OK,74,855712,2018,Drago,En recarga,1020,#N/A,#N/A,
+2300,1001,LOTE 95,Uva M.,Unidad de Cajas.,Col. F / 08,CO2,BC,5 Kg,,,OK,OK,OK,73,855744,2018,Drago,En recarga,2300,C-07,10/2020,
+468723,1002,LOTE 95,Uva M.,Unidad de Cajas.,Col.F / 07,AFFF,AB,10 Lts,,,OK,OK,OK,23,468110,2018,Melisam,En recarga,468723,G-21,1/11/2020,
+1297,1003,LOTE 95,Uva M.,Unidad de Cajas.,Col. F /  04,CO2,BC,5 Kg,,,OK,OK,OK,75,855792,2018,Drago,En recarga,1297,E-16,1/12/2020,
+1157,1004,LOTE 95,Uva M.,Unidad de Cajas.,Col. F /  02,CO2,BC,5 Kg,,,OK,OK,OK,76,855711,2018,Drago,En recarga,1157,E-16,1/12/2020,
+2167,1005,LOTE 95,Uva M.,Unidad de Cajas.,Col. G /  02,POLVO,ABC,10 Kg,,,OK,OK,OK,112,625195,2018,Melisam,En recarga,2167,,1/5/2021,
+468105,1006,LOTE 95,Uva M.,Unidad de Cajas.,Col. G /  05,AFFF,AB,10 Lts,,,OK,OK,OK,29,468107,2018,Melisam,En recarga,468105,G-21,1/11/2020,
+468066,1007,LOTE 95,Uva M.,Unidad de Cajas.,Col. G /  07,AFFF,AB,10 Lts,,,OK,OK,OK,22,468304,2018,Melisam,En recarga,468066,G-21,1/12/2020,
+300183,1008,LOTE 95,Uva M.,Unidad de Cajas.,Col. G /  09,AFFF,AB,10 Lts,,,OK,OK,OK,28,468435,2018,Melisam,En recarga,300183,G-21,1/12/2020,
+300154,1009,LOTE 95,Uva M.,Unidad de Cajas.,Col. G / 10,AFFF,AB,10 Lts,,,OK,OK,OK,27,468756,2018,Melisam,En recarga,300154,G-21,1/12/2020,
+,1010,LOTE 95,Villareal D.,Unidad de Cajas.,Col. G / 12,AFFF,AB,10 Lts,11/2020,11/2020,OK,OK,OK,26,462279,2018,Melisam,En planta,,#N/A,#N/A,
+468151,1011,LOTE 95,Villareal D.,Unidad de Cajas.,Col. G / 13,AFFF,AB,10 Lts,,,OK,OK,OK,25,468798,2018,Melisam,En recarga,468151,,12/2020,
+999918,1012,LOTE 95,Villareal D.,Unidad de Cajas.,Col.  G  / 14,POLVO,ABC,10 Kg,,,OK,OK,OK,127,675875,2018,Melisam,En recarga,999918,A-02,6/2021,
+1175,1013,LOTE 95,Villareal D.,Unidad de Cajas.,Grupo Electrogeno,CO2,BC,5 Kg,,,OK,OK,OK,130,676648,2018,Drago,En recarga,1175,,12/2020,
+,1014,LOTE 95,Villareal D.,Unidad de Cajas.,Sub.Est.Electrica.,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,134,855878,2018,Drago,En planta,,#N/A,#N/A,
+1135,1015,LOTE 95,Villareal D.,Unidad de Cajas.,Sub.Est.Electrica.,CO2,BC,5 Kg,,,OK,OK,OK,93,855730,2018,Drago,En recarga,1135,,03/2021,
+,1016,LOTE 95,Villareal D.,Unidad de Cajas.,Sub.Est.Electrica.,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,135,855886,2018,Drago,En planta,,#N/A,#N/A,
+,1017,LOTE 95,Villareal D.,Unidad de Cajas.,Sub.Est.Electrica.,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,136,855559,2018,Drago,En planta,,#N/A,#N/A,
+,1018,LOTE 95,Villareal D.,Unidad de Cajas.,Sub.Est.Electrica.,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,137,855857,2018,Drago,En planta,,#N/A,#N/A,
+1184,1019,LOTE 95,Villareal D.,Unidad de Cajas.,Sub.Est.Electrica.,CO2,BC,5 Kg,,,OK,OK,OK,94,855772,2018,Drago,En recarga,1184,,03/2021,
+,1020,LOTE 95,Villareal D.,Unidad de Cajas.,Sub.Est.Electrica.,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,138,855887,2018,Drago,En planta,,#N/A,#N/A,
+1276,1021,LOTE 95,Villareal D.,Unidad de Cajas.,Col.  H  / 14,CO2,BC,5 Kg,,,NOK,OK,OK,96,855747,2018,Drago,En recarga,1276,,03/2021,
+1348,1022,LOTE 95,Villareal D.,Unidad de Cajas.,Col.  H  / 12,CO2,BC,5 Kg,,,OK,OK,OK,79,855774,2018,Drago,En recarga,1348,#N/A,#N/A,
+566,1023,LOTE 95,Villareal D.,Unidad de Cajas.,Col.  H / 10,AFFF,AB,10 Lts,,,OK,OK,OK,56,468403,2018,Melisam,En recarga,566,C-06,6/2021,
+455,1024,LOTE 95,Villareal D.,Unidad de Cajas.,Col.  H /  08,AFFF,AB,10 Lts,,,OK,OK,OK,58,468825,2018,Melisam,En recarga,455,,12/2020,
+1751,1025,LOTE 95,Villareal D.,Unidad de Cajas.,Col.  H /  06,CO2,BC,5 Kg,,,OK,OK,OK,78,855793,2018,Drago,En recarga,1751,,03/2021,
+,1026,LOTE 95,Villareal D.,Unidad de Cajas.,Col. H  /  04,CO2,BC,5 Kg,12/2020,12/2023,OK,OK,OK,77,855702,2018,Drago,En planta,,#N/A,#N/A,
+300583,1027,LOTE 95,Villareal D.,Unidad de Cajas.,Col. H / 02,AFFF,AB,10 Lts,,,OK,OK,OK,21,468171,2018,Melisam,En recarga,300583,,12/2020,
+1036,1028,LOTE 95,Villareal D.,Unidad de Cajas.,Col. I  / 02,CO2,BC,5 Kg,,,OK,OK,OK,80,855761,2018,Drago,En recarga,1036,#N/A,#N/A,
+1798,1029,LOTE 95,Villareal D.,Unidad de Cajas.,Col. I / 04,CO2,BC,5 Kg,,,OK,OK,OK,81,855770,2018,Drago,En recarga,1798,#N/A,#N/A,
+1639,1030,LOTE 95,Villareal D.,Unidad de Cajas.,Col. I /  07,CO2,BC,5 Kg,,,OK,OK,OK,82,855727,2018,Drago,En recarga,1639,#N/A,#N/A,
+300302,1031,LOTE 95,Villareal D.,Unidad de Cajas.,Col. I /  09,AFFF,AB,10 Lts,,,OK,OK,OK,33,468045,2018,Melisam,En recarga,300302,,12/2020,
+3471,1032,LOTE 95,Villareal D.,Unidad de Cajas.,Col. I / 12,AFFF,AB,10 Lts,,,OK,OK,OK,32,468306,2018,Melisam,En recarga,3471,,12/2020,
+300276,1033,LOTE 95,Villareal D.,Unidad de Cajas.,Col. I / 14,AFFF,AB,10 Lts,,,OK,OK,OK,52,468251,2018,Melisam,En recarga,300276,,12/2020,
+,1034,LOTE 95,Villareal D.,Unidad de Cajas.,Revisión de maquinas,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,122,657608,2018,Melisam,En planta,,#N/A,#N/A,
+,1035,LOTE 95,Villareal D.,Unidad de Cajas.,Revisión de maquinas,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,123,625272,2018,Melisam,En planta,,#N/A,#N/A,
+,1036,LOTE 95,Villareal D.,Unidad de Cajas.,Laboratorio F-Q-M,CO2,BC,10 Kg,11/2020,11/2023,OK,OK,OK,133,855893,2018,Drago,En planta,,#N/A,#N/A,
+1687,1037,LOTE 95,Villareal D.,Unidad de Cajas.,Laboratorio F-Q-M,CO2,BC,5 Kg,,,OK,OK,OK,83,855707,2018,Drago,En recarga,1687,,03/2021,
+1094,1038,LOTE 95,Villareal D.,Unidad de Cajas.,Laboratorio F-Q-M,CO2,BC,5 Kg,,,OK,OK,OK,84,855728,2018,Drago,En recarga,1094,,03/2021,
+1191,1039,LOTE 95,Villareal D.,Unidad de Cajas.,Laboratorio F-Q-M,CO2,BC,5 Kg,,,OK,OK,OK,85,855740,2018,Drago,En recarga,1191,,03/2021,
+,1040,LOTE 95,Villareal D.,Unidad de Cajas.,Laboratorio F-Q-M,AFFF,AB,10 Lts,11/2020,11/2020,OK,OK,OK,54,468775,2018,Melisam,En planta,,#N/A,#N/A,
+2405,1041,LOTE 95,Villareal D.,Unidad de Cajas.,Laboratorio F-Q-M,CO2,BC,3.5 Kg,,,OK,OK,OK,161,855650,2018,Drago,En recarga,2405,E-15,7/2021,
+,1042,LOTE 95,Villareal D.,Unidad de Cajas.,Process Center,POLVO,ABC,25 Kg,5/2021,5/2023,OK,OK,OK,172,52159,2018,Melisam,En planta,,#N/A,#N/A,
+1095,1043,LOTE 95,Villareal D.,Unidad de Cajas.,Col. J / 13,CO2,BC,5 Kg,,,OK,OK,OK,87,855741,2018,Drago,En recarga,1095,,03/2021,
+3804,1044,LOTE 95,Villareal D.,Unidad de Cajas.,Col. J / 10,POLVO,ABC,10 Kg,,,OK,OK,OK,113,625547,2018,Melisam,En recarga,3804,#N/A,#N/A,
+555,1045,LOTE 95,Villareal D.,Unidad de Cajas.,Col. J /  08,AFFF,AB,10 Lts,,,OK,NOK,OK,36,468407,2018,Melisam,En recarga,555,H-25,3/2021,
+605,1046,LOTE 95,Villareal D.,Unidad de Cajas.,Col. J / 06,AFFF,AB,10 Lts,,,OK,OK,OK,35,468773,2018,melisam,En recarga,605,,12/2020,
+3556,1047,LOTE 95,Villareal D.,Unidad de Cajas.,Col. J / 04,AFFF,AB,10 Lts,,,OK,OK,OK,34,468111,2018,melisam,En recarga,3556,,12/2020,
+468746,1048,LOTE 95,Villareal D.,Unidad de Cajas.,Col. J / 02,AFFF,AB,10 Lts,,,OK,OK,OK,30,468160,2018,melisam,En recarga,468746,,12/2020,
+2345,1049,LOTE 95,Villareal D.,Unidad de Cajas.,Col. K / 02,CO2,BC,3.5 Kg,,,OK,OK,OK,162,855676,2018,Drago,En recarga,2345,,07/2021,
+1374,1050,LOTE 95,Villareal D.,Unidad de Cajas.,Col. K / 04,CO2,BC,5 Kg,,,OK,OK,OK,86,855713,2018,Drago,En recarga,1374,C-07,10/2020,
+,1051,LOTE 95,Villareal D.,Unidad de Cajas.,Col. K / 07,POLVO,ABC,10 Kg,12/2020,12/2023,OK,OK,OK,124,625127,,Melisam,En planta,,#N/A,#N/A,
+3389,1052,LOTE 95,Villareal D.,Unidad de Cajas.,Col. K / 08,AFFF,AB,10 Lts,,,OK,OK,OK,37,468413,2018,Melisam,En recarga,3389,,03/2021,
+1713,1053,LOTE 95,Villareal D.,Unidad de Cajas.,Col. K / 11,CO2,BC,5 Kg,,,OK,OK,OK,94,857829,2018,Melisam,En recarga,1713,,12/2020,
+2060,1054,LOTE 95,Villareal D.,Unidad de Cajas.,Col. K / 13,POLVO,ABC,10 Kg,,,OK,OK,OK,124,625266,2018,Melisam,En recarga,2060,,03/2021,
+1256,1055,LOTE 95,Villareal D.,Unidad de Cajas.,Col. L / 13,CO2,BC,5 Kg,,,OK,OK,OK,88,855721,2018,Drago,En recarga,1256,,03/2021,
+1664,1056,LOTE 95,Villareal D.,Unidad de Cajas.,Col. L / 09,POLVO,ABC,10 Kg,,,OK,OK,OK,114,625210,2018,Melisam,En recarga,1664,A-02,3/2021,
+300129,1057,LOTE 95,Villareal D.,Unidad de Cajas.,Col. L / 08,AFFF,AB,10 Lts,,,OK,OK,OK,48,300152,2018,Melisam,En recarga,300129,G-21,11/2020,
+536,1058,LOTE 95,Villareal D.,Unidad de Cajas.,Col. L / 07,AFFF,AB,10 Lts,,,OK,OK,OK,47,300234,2018,Melisam,En recarga,536,,12/2020,
+1442,1059,LOTE 95,Villareal D.,Unidad de Cajas.,Col. L / 04,CO2,BC,5 Kg,,,OK,OK,OK,89,855788,2018,Drago,En recarga,1442,,03/2021,
+,1060,LOTE 95,Villareal D.,Unidad de Cajas.,Ex descanso de T/ Térmicos,POLVO,ABC,2.5 Kg,5/2021,5/2022,OK,OK,OK,181,348,2011,Horizonte,En planta,,#N/A,#N/A,
+,1061,LOTE 95,Villareal D.,Unidad de Cajas.,Ex-Ofic de C.P.I T/ Térmicos,POLVO,ABC,2.5 Kg,5/2021,5/2022,NOK,NOK,NC,182,905,2011,Horizonte,En planta,,#N/A,#N/A,
+575,1062,LOTE 95,Villareal D.,Unidad de Cajas.,Archivo T/ Térmicos,POLVO,ABC,2.5 Kg,,,OK,NOK,NOK,183,642,2011,Horizonte,En recarga,575,H-25,3/2021,
+,1063,LOTE 95,Villareal D.,Unidad de Cajas.,Oficina Calidad de FAASA,POLVO,ABC,2.5 Kg,5/2021,5/2022,OK,OK,OK,184,740,2011,Horizonte,En planta,,#N/A,#N/A,
+,1064,LOTE 95,Villareal D.,Unidad de Cajas.,Ex Metrologia T/Térmicos,POLVO,ABC,2.5 Kg,3/2021,3/2021,OK,OK,OK,185,254,2011,Horizonte,En planta,,#N/A,#N/A,
+,1065,LOTE 95,Villareal D.,Unidad de Cajas.,Ex Metrologia T/Térmicos,POLVO,ABC,2.5 Kg,3/2021,3/2021,OK,OK,OK,186,30,2011,Horizonte,En planta,,#N/A,#N/A,
+,1066,LOTE 95,Villareal D.,Unidad de Cajas.,Descanso de Emp. Tramar,POLVO,ABC,2.5 Kg,3/2021,3/2021,OK,OK,OK,187,668,2011,Horizonte,En planta,,#N/A,#N/A,
+658,1067,LOTE 95,Villareal D.,Unidad de Cajas.,Oficina de Emp. Mediterranea,POLVO,ABC,2.5 Kg,,,OK,OK,NOK,188,196,2011,Horizonte,En recarga,658,,03/2021,
+,1068,LOTE 95,Villareal D.,Unidad de Cajas.,Oficina de RR-HH- T/Térmicos,POLVO,ABC,2.5 Kg,3/2021,3/2021,OK,OK,OK,189,322,2011,Horizonte,En planta,,#N/A,#N/A,
+,1069,LOTE 95,Villareal D.,Unidad de Cajas.,Oficina de EHS T/Term.Cajas,POLVO,ABC,2.5 Kg,5/2021,5/2022,OK,OK,OK,190,3268,2011,Horizonte,En planta,,#N/A,#N/A,
+,1070,LOTE 95,Villareal D.,Unidad de Cajas.,Oficina de FCA Servicie,POLVO,ABC,2.5 Kg,5/2021,5/2022,OK,OK,OK,191,413,2011,Horizonte,En planta,,#N/A,#N/A,
+,1071,LOTE 95,Villareal D.,Unidad de Cajas.,Ex Oficina de ATOS,POLVO,ABC,2.5 Kg,3/2021,3/2021,OK,OK,OK,192,538,2011,Horizonte,En planta,,#N/A,#N/A,
+,1072,LOTE 95,Villareal D.,Unidad de Cajas.,Ex Oficina de ATOS,POLVO,ABC,2.5 Kg,3/2021,3/2021,OK,OK,OK,193,611,2011,Horizonte,En planta,,#N/A,#N/A,
+,1073,LOTE 95,Villareal D.,Unidad de Cajas.,Centro de Copiado,POLVO,ABC,2.5 Kg,5/2021,5/2022,OK,OK,OK,194,630,2011,Horizonte,En planta,,#N/A,#N/A,
+468719,1074,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Col. L1 / 03,AFFF,AB,10 Lts,,,OK,OK,OK,91,300063,2018,Melisam,En recarga,468719,,11/2020,
+,1075,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Col. L1 / 05,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,120,657961,2018,Melisam,En planta,,#N/A,#N/A,
+1831,1076,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Col.M / 03,CO2,BC,5 Kg,,,OK,OK,OK,92,855780,2018,Melisam,En recarga,1831,,03/2021,
+698,1077,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Col. M / 05,AFFF,AB,10 Lts,,,OK,OK,OK,47,468759,2018,Melisam,En recarga,698,G-22,12/2020,
+,1078,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Col. N / 02,POLVO,ABC,10 Kg,12/2020,12/2023,OK,OK,OK,125,676624,2018,Melisam,En planta,,#N/A,#N/A,
+,1079,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Dotación de Prevención,POLVO,ABC,25 Kg,5/2021,5/2023,OK,OK,OK,S/Nª Int.,51881,2018,Melisam,En planta,,#N/A,#N/A,
+,1080,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Dotación de Prevención,POLVO,ABC,25 Kg,5/2021,5/2023,OK,OK,OK,S/Nª Int.,51936,2018,Melisam,En planta,,#N/A,#N/A,
+676606,1081,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Dotación de Prevención,POLVO,ABC,10 Kg,,,NOK,NOK,NOK,S/Nª Int.,657999,2018,Melisam,En recarga,676606,,07/2021,
+,1082,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Dotación de Prevención,AFFF,AB,25 Lts,5/2021,5/2023,NOK,NOK,OK,S/Nª Int.,3706,2011,Horizonte,En planta,,#N/A,#N/A,
+,1083,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Dotación de Prevención,AFFF,AB,25 Lts,10/2020,10/2020,NOK,NOK,OK,S/Nª Int.,3708,2011,Horizonte,En planta,,#N/A,#N/A,
+,1084,LOTE 95,Villareal D.,Ex unidad de  Varillas.,Dotación de Prevención,AFFF,AB,10 Lts,11/2020,11/2020,NOK,NOK,OK,S/Nª Int.,468138,2018,Melisam,En planta,,#N/A,#N/A,
+,1085,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Servicios generales-,POLVO,ABC,10 Kg,10/2020,10/2024,OK,OK,OK,1361,365676,2009,Melisam,En planta,,#N/A,#N/A,
+2250,1086,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Servicios generales-,POLVO,ABC,10 Kg,,,OK,OK,OK,1362,1984,2010,Horizonte,En recarga,2250,A-02,1/5/2021,
+1926,1087,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Servicios generales-,POLVO,ABC,10 Kg,,,OK,OK,OK,1363,1843,2010,Horizonte,En recarga,1926,A-02,1/6/2021,
+2269,1088,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Servicios generales-,POLVO,ABC,10 Kg,,,OK,OK,OK,1364,465293,2010,Fadesa,En recarga,2269,A-02,1/5/2021,
+3456,1089,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Servicios generales-,POLVO,ABC,10 Kg,,,OK,OK,OK,1365,4151,2010,Horizonte,En recarga,3456,A-02,1/6/2021,
+55,1090,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Servicios generales-,POLVO,ABC,10 Kg,,,OK,OK,OK,1366,2173,2010,Horizonte,En recarga,55,A-02,1/6/2021,
+,1091,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Servicios generales-,POLVO,ABC,10 Kg,10/2020,10/2020,OK,OK,OK,1367,1905,2010,Horizonte,En planta,,#N/A,#N/A,
+3594,1092,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Servicios generales-,POLVO,ABC,10 Kg,,,OK,OK,OK,1368,4454,2010,Horizonte,En recarga,3594,A-02,1/5/2021,
+46754,1093,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Ventas directas,POLVO,ABC,10 Kg,,,OK,OK,OK,1369,1636,2010,Horizonte,En recarga,46754,A-02,1/6/2021,
+3655,1094,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Ventas directas,POLVO,ABC,10 Kg,,,OK,OK,OK,1370,2055,2010,Horizonte,En recarga,3655,A-02,1/5/2021,
+381296,1095,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Ventas directas,POLVO,ABC,10 Kg,,,OK,OK,OK,1371,378802,2009,Melisam,En recarga,381296,A-02,1/6/2021,
+13329,1096,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Ventas directas,POLVO,ABC,10 Kg,,,OK,OK,OK,1372,3365,2010,Horizonte,En recarga,13329,A-02,1/10/2020,
+,1097,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Ventas directas,POLVO,ABC,10 Kg,10/2020,10/2021,OK,OK,OK,1373,1433,2010,Horizonte,En planta,,#N/A,#N/A,
+,1098,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Ventas directas,POLVO,ABC,10 Kg,5/2021,5/2025,OK,OK,OK,1374,2132,2010,Horizonte,En planta,,#N/A,#N/A,
+,1099,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Ventas directas,POLVO,ABC,10 Kg,6/2021,6/2023,OK,OK,OK,1375,3938,2010,Horizonte,En planta,,#N/A,#N/A,
+4402,1100,LOTE 95,Zabala M.,Playa Antigranizo Comercial- Sevicio Generales- Ventas directas.,Playa Ventas directas,POLVO,ABC,10 Kg,,,OK,OK,OK,1376,4436,2010,Horizonte,En recarga,4402,A-02,1/6/2021,
+625256,1101,LOTE 95,Zabala M.,Ex Puesto Nº 10,Ex Puesto Nº 10,POLVO,ABC,10 Kg,,,OK,OK,OK,1121,676133,2018,Melisam,En recarga,625256,B-03,1/12/2020,
+625406,1102,LOTE 95,Zabala M.,Garage Servicio Generales.,Garage Servicio Generales.,POLVO,ABC,10 Kg,,,OK,OK,OK,1122,676096,2018,Melisam,En recarga,625406,B-03,1/12/2020,
+676702,1103,LOTE 95,Zabala M.,Garage Servicio Generales.,Garage Servicio Generales.,POLVO,ABC,10 Kg,,,OK,OK,OK,1123,676055,2018,Melisam,En recarga,676702,B-03,1/12/2020,
+657786,1104,LOTE 95,Zabala M.,Garage Servicio Generales.,Garage Servicio Generales.,POLVO,ABC,10 Kg,,,OK,OK,OK,1124,624904,2018,Melisam,En recarga,657786,B-03,1/12/2020,
+625234,1105,LOTE 95,Zabala M.,Taller de CCTV,Taller de CCTV,POLVO,ABC,10 Kg,,,OK,OK,OK,1125,675986,2018,Melisam,En recarga,625234,A-02,1/12/2020,
+676678,1106,LOTE 95,Zabala M.,Galpón Chipiadora,Galpòn Chipiadora,POLVO,ABC,10 Kg,,,OK,OK,OK,1126,365616,2009,Melisam,En recarga,676678,A-02,1/10/2020,
+676011,1107,LOTE 95,Zabala M.,Galpón Chipiadora,Galpòn Chipiadora,POLVO,ABC,10 Kg,,,OK,OK,OK,1127,3444,2009,Melisam,En recarga,676011,A-02,10/2020,
+798677,1108,LOTE 95,Zabala M.,Galpón Chipiadora,Galpòn Chipiadora,POLVO,ABC,10 Kg,,,OK,OK,OK,1128,361474,2009,Melisam,En recarga,798677,A-02,10/2020,
+673868,1109,LOTE 95,Zabala M.,Galpón Chipiadora,Galpòn Chipiadora,POLVO,ABC,10 Kg,,,OK,OK,OK,1129,403690,2009,Melisam,En recarga,673868,A-02,1/10/2020,
+,1110,LOTE 95,Zabala M.,Galpón Chipiadora,Galpòn Chipiadora,POLVO,ABC,10 Kg,12/2020,12/2023,OK,OK,OK,1130,365666,2009,Melisam,En planta,,#N/A,#N/A,
+676634,1111,LOTE 95,Zabala M.,Galpón Chipiadora,Galpòn Chipiadora,POLVO,ABC,10 Kg,,,OK,OK,OK,1131,403992,2009,Melisam,En recarga,676634,A-02,1/10/2020,
+,1112,LOTE 95,Zabala M.,Galpón Chipiadora,Galpòn Chipiadora,POLVO,ABC,10 Kg,10/2020,10/2024,OK,OK,OK,1132,381237,2009,Melisam,En planta,,#N/A,#N/A,
+52138,1113,LOTE 95,Zabala M.,Depósito de combustibles CNHIndustrial-FPT-Norte-,Dep. Comb. Norte,AFFF,AB,100 Lts,,,OK,OK,OK,1114,51300,2018,Melisam,En recarga,52138,K,5/2021,
+1179,1114,LOTE 95,Zabala M.,Depósito de combustibles CNHIndustrial-FPT-Norte-,Dep. Comb. Norte,CO2,BC,5 Kg,,,OK,OK,OK,1112,1802,2011,Horizonte,En recarga,1179,E-16,1/6/2021,
+692,1115,LOTE 95,Zabala M.,Depósito de combustibles CNHIndustrial-FPT-Norte-,Dep. Comb. Norte,AFFF,AB,10 Lts,,,OK,OK,OK,1113,472,2011,Horizonte,En recarga,692,G-21,5/2021,
+3473,1116,LOTE 95,Zabala M.,Depósito de combustibles CNHIndustrial-FPT-Norte-,Dep. Comb. Norte,AFFF,AB,10 Lts,,,OK,OK,OK,1111,527,2011,Horizonte,En recarga,3473,,1/11/2020,
+,1117,LOTE 95,Zabala M.,Depósito de combustibles CNHIndustrial-FPT-Norte-,Dep. Comb. Norte,AFFF,AB,10 Lts,7/2021,7/2022,OK,OK,OK,1115,272,2011,Horizonte,En planta,,#N/A,#N/A,
+,1119,LOTE 95,Zabala M.,Vestuario de Operarios Central,Vest. Operarios Central,POLVO,ABC,10 Kg,5/2021,5/2023,OK,OK,OK,1276,676737,2018,Melisam,En planta,,#N/A,#N/A,
+,1120,LOTE 95,Zabala M.,Vestuario de Operarios Central,Vest. Operarios Central,AFFF,AB,10 Lts,11/2020,11/2022,OK,OK,OK,1277,468135,2018,Melisam,En planta,,#N/A,#N/A,
+857995,1121,LOTE 95,Zabala M.,Vestuario de Operarios Central,Vest. Operarios Central,CO2,BC,5 Kg,,,OK,OK,OK,1279,855796,2018,Melisam,En recarga,857995,F-19,1/6/2021,
+855784,1122,LOTE 95,Zabala M.,Vestuario de Operarios Central,Vest. Operarios Central,CO2,BC,5 Kg,,,OK,OK,OK,1278,855794,2018,Drago,En recarga,855784,F-19,1/6/2021,
+857928,1123,LOTE 95,Zabala M.,Vestuario de Operarios Central,Central termica,CO2,BC,5 Kg,,,OK,OK,OK,1280,855745,2018,Drago,En recarga,857928,F-19,1/6/2021,
+,1124,LOTE 95,Zabala M.,Foresteria,Aire acondicionado,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,1203,657392,2018,Melisam,En planta,,#N/A,#N/A,
+,1125,LOTE 95,Zabala M.,Foresteria,Aire acondicionado,POLVO,ABC,10 Kg,10/2020,10/2023,OK,OK,OK,1204,676066,2018,Melisam,En planta,,#N/A,#N/A,
+2632,1126,LOTE 95,Zabala M.,Foresteria,Foresteria Cocina,POLVO,ABC,5 Kg,,,OK,OK,OK,1205,657307,2018,Melisam,En recarga,2632,C-06,1/6/2021,
+8560,1127,LOTE 95,Zabala M.,Foresteria,Foresteria salon Break,POLVO,ABC,5 Kg,,,OK,OK,OK,1206,657119,2018,Melisam,En recarga,8560,#N/A,#N/A,
+5191,1128,LOTE 95,Zabala M.,Foresteria,Foresteria salon Break,POLVO,ABC,5 Kg,,,OK,OK,OK,1207,669384,2018,Melisam,En recarga,5191,C-06,1/6/2021,
+852985,1129,LOTE 95,Zabala M.,Foresteria,Foresteria Hall,CO2,BC,3.5 Kg,,,OK,OK,OK,1208,857110,2018,Drago,En recarga,852985,E-15,1/11/2020,
+6404,1130,LOTE 95,Zabala M.,Foresteria,Forestaria Auditorio,HALON,ABC,5 Kg,,,OK,OK,OK,1210,4428,2011,Horizonte,En recarga,6404,C-06,6/2021,
+2956,1131,LOTE 95,Zabala M.,Foresteria,Forestaria Auditorio,POLVO,ABC,5 Kg,,,OK,OK,OK,1209,669359,2018,Melisam,En recarga,2956,A-00,1/6/2021,
+1491716,1132,LOTE 95,Zabala M.,Foresteria,Foresteria Slda. Emerg,POLVO,ABC,5 Kg,,,OK,OK,OK,1212,657086,2018,Melisam,En recarga,1491716,C-06,1/6/2021,
+985555,1133,LOTE 95,Zabala M.,Foresteria,Foresteria Slda. Emerg,POLVO,ABC,5 Kg,,,OK,OK,OK,1211,657073,2018,Melisam,En recarga,985555,#N/A,#N/A,
+,1134,LOTE 95,Zabala M.,Foresteria,Foresteria Externo,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,1214,657500,2018,Melisam,En planta,,#N/A,#N/A,
+855630,1135,LOTE 95,Zabala M.,Foresteria,Forestaria Externo,CO2,BC,3.5 Kg,,,OK,OK,OK,1213,857037,2018,Drago,En recarga,855630,E-15,1/11/2020,
+857051,1136,LOTE 95,Zabala M.,Foresteria,Foresteria Aula,CO2,BC,3.5 Kg,,,OK,OK,OK,1215,857079,2018,Drago,En recarga,857051,E-15,11/2020,
+676595,1137,LOTE 95,Zabala M.,Puesto de Guardia Nº 3,Puesto de Guardia Nº 3,POLVO,ABC,10 Kg,,,OK,OK,OK,1121,676133,2018,Melisam,En recarga,676595,B-03,1/12/2020,
+2508,1138,LOTE 95,Zabala M.,Puesto de Guardia Nº 3,Puesto de Guardia Nº 3,CO2,BC,3.5 Kg,,,OK,OK,OK,1163,857090,2018,Drago,En recarga,2508,E-15,1/7/2021,
+5450,1139,LOTE 95,Zabala M.,Puesto Nº 1,Puesto Nº1,POLVO,ABC,5 Kg,,,OK,OK,OK,1201,656830,2018,Melisam,En recarga,5450,C-06,1/6/2021,
+,1140,LOTE 95,Zabala M.,Puesto Nº 1,Puesto Nº1,POLVO,ABC,5 Kg,10/2020,10/2023,OK,OK,OK,1202,657494,2018,Melisam,En planta,,#N/A,#N/A,
+300355,1141,LOTE 95,Zabala M.,Isla Ecológica,Perimetro,AFFF,AB,10 Lts,,,OK,OK,OK,718,468102,2018,Melisam,En recarga,300355,G-22,1/11/2020,
+281,1142,LOTE 95,Zabala M.,Isla Ecológica,Puesto Nº 8,AFFF,AB,10 Lts,,,OK,OK,OK,717,675725,2018,Melisam,En recarga,281,G-21,1/12/2020,
+468155,1143,LOTE 95,Zabala M.,Isla Ecológica,Oficina,POLVO,ABC,10 Kg,,,OK,OK,OK,719,468731,2018,Melisam,En recarga,468155,G-21,12/2020,
+300197,1144,LOTE 95,Zabala M.,Isla Ecológica,Oficina,AFFF,AB,10 Lts,,,OK,OK,OK,720,468762,2018,Melisam,En recarga,300197,#N/A,#N/A,
+625293,1145,LOTE 95,Zabala M.,Isla Ecológica,Focalizado,AFFF,AB,10 Lts,,,OK,OK,OK,729,468310,2018,Melisam,En recarga,625293,,12/2020,
+300301,1146,LOTE 95,Zabala M.,Isla Ecológica,Galp. Arg. Prensa,AFFF,AB,10 Lts,,,OK,OK,OK,724,468494,2018,Melisam,En recarga,300301,G-21,11/2020,
+468894,1147,LOTE 95,Zabala M.,Isla Ecológica,Galp. Arg. Prensa,AFFF,AB,10 Lts,,,OK,OK,OK,723,468162,2018,Melisam,En recarga,468894,G-21,12/2020,
+300237,1148,LOTE 95,Zabala M.,Isla Ecológica,Galp. Arg. Prensa,AFFF,AB,10 Lts,,,OK,OK,OK,726,468354,2018,Melisam,En recarga,300237,G-21,12/2020,
+468420,1149,LOTE 95,Zabala M.,Isla Ecológica,Cuba Soluble,AFFF,AB,10 Lts,,,OK,OK,OK,725,300554,2018,Melisam,En recarga,468420,,1/11/2020,
+,1150,LOTE 95,Zabala M.,Isla Ecológica,Desar. Madera -ex UFO-,AFFF,AB,10 Lts,12/2020,12/2020,OK,OK,OK,727,468173,2018,Melisam,En planta,,#N/A,#N/A,
+539678,1151,LOTE 95,Zabala M.,Isla Ecológica,Desar. Madera -ex UFO-,CO2,BC,10 Kg,,,OK,OK,OK,728,860191,2018,Melisam,En recarga,539678,,11/2020,
+6746,1152,LOTE 95,Zabala M.,Isla Ecológica,Sala de bombas,POLVO,ABC,5 Kg,,,OK,OK,OK,731,656148,2018,Melisam,En recarga,6746,,10/2020,
+668475,1153,LOTE 95,Zabala M.,Isla Ecológica,Box. Destruc. Plást.,AFFF,AB,10 Lts,,,OK,OK,OK,729,468310,2018,Melisam,En recarga,668475,,1/11/2020,
+468868,1154,LOTE 95,Zabala M.,Isla Ecológica,Box desar. de motores,AFFF,AB,10 Lts,,,OK,OK,OK,730,468089,2018,Melisam,En recarga,468868,G-21,12/2020,
+,1155,LOTE 95,Zabala M.,Isla Ecológica,Box. Destruc. Plást.,AFFF,AB,10 Lts,11/2020,11/2020,OK,OK,OK,716,468072,2018,Melisam,En planta,,#N/A,#N/A,
+,1156,LOTE 95,Zabala M.,Isla Ecológica,Galp. Arg. Prensa,Agua,A,10 Lts,12/2020,12/2020,OK,OK,OK,722,468231,2018,Melisam,En planta,,#N/A,#N/A,
+676633,1157,LOTE 95,Zabala M.,Isla Ecológica,Galp. Arg. Prensa,POLVO,ABC,10 Kg,,,OK,OK,OK,721,676019,2018,Melisam,En recarga,676633,B-04,1/12/2020,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,,En planta,,#N/A,#N/A,
